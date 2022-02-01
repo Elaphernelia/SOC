@@ -1,0 +1,3218 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="weight" attr.type="long" for="edge" id="d8"/>
+<key attr.name="energy" attr.type="long" for="node" id="d7"/>
+<key attr.name="loudness" attr.type="long" for="node" id="d6"/>
+<key attr.name="danceability" attr.type="long" for="node" id="d5"/>
+<key attr.name="popularity" attr.type="long" for="node" id="d4"/>
+<key attr.name="energy" attr.type="double" for="node" id="d3"/>
+<key attr.name="loudness" attr.type="double" for="node" id="d2"/>
+<key attr.name="danceability" attr.type="double" for="node" id="d1"/>
+<key attr.name="popularity" attr.type="double" for="node" id="d0"/>
+<graph edgedefault="undirected"><node id="? &amp; The Mysterians">
+  <data key="d0">27.0</data>
+  <data key="d1">0.56975</data>
+  <data key="d2">-8.071499999999999</data>
+  <data key="d3">0.7280000000000001</data>
+</node>
+<node id="Adam Faith">
+  <data key="d0">0.0</data>
+  <data key="d1">0.263</data>
+  <data key="d2">-5.18</data>
+  <data key="d3">0.9440000000000001</data>
+</node>
+<node id="Al Green">
+  <data key="d0">16.5</data>
+  <data key="d1">0.5805</data>
+  <data key="d2">-12.530999999999999</data>
+  <data key="d3">0.4725</data>
+</node>
+<node id="Al Hirt">
+  <data key="d0">25.0</data>
+  <data key="d1">0.675</data>
+  <data key="d2">-11.626</data>
+  <data key="d3">0.6709999999999999</data>
+</node>
+<node id="Al Martino">
+  <data key="d0">24.333333333333332</data>
+  <data key="d1">0.3926666666666667</data>
+  <data key="d2">-11.525833333333333</data>
+  <data key="d3">0.3538333333333333</data>
+</node>
+<node id="Alex Orbison">
+  <data key="d0">16.333333333333332</data>
+  <data key="d1">0.5726666666666667</data>
+  <data key="d2">-10.471333333333334</data>
+  <data key="d3">0.503</data>
+</node>
+<node id="Allan Sherman">
+  <data key="d0">6.0</data>
+  <data key="d1">0.606</data>
+  <data key="d2">-8.741</data>
+  <data key="d3">0.637</data>
+</node>
+<node id="Andy Kim">
+  <data key="d0">26.5</data>
+  <data key="d1">0.5905</data>
+  <data key="d2">-7.401000000000001</data>
+  <data key="d3">0.704</data>
+</node>
+<node id="Andy Williams">
+  <data key="d0">48.875</data>
+  <data key="d1">0.33737500000000004</data>
+  <data key="d2">-12.102250000000002</data>
+  <data key="d3">0.4115</data>
+</node>
+<node id="Ann-Margret">
+  <data key="d0">12.5</data>
+  <data key="d1">0.2955</data>
+  <data key="d2">-13.690000000000001</data>
+  <data key="d3">0.2935</data>
+</node>
+<node id="Anne Murray">
+  <data key="d0">12.0</data>
+  <data key="d1">0.536</data>
+  <data key="d2">-10.055</data>
+  <data key="d3">0.65</data>
+</node>
+<node id="Annette Funicello">
+  <data key="d0">11.0</data>
+  <data key="d1">0.37799999999999995</data>
+  <data key="d2">-7.935</data>
+  <data key="d3">0.439</data>
+</node>
+<node id="Archie Bell &amp; The Drells">
+  <data key="d0">17.375</data>
+  <data key="d1">0.588625</data>
+  <data key="d2">-8.897499999999999</data>
+  <data key="d3">0.62525</data>
+</node>
+<node id="Aretha Franklin">
+  <data key="d0">42.36842105263158</data>
+  <data key="d1">0.6055789473684211</data>
+  <data key="d2">-10.61305263157895</data>
+  <data key="d3">0.487</data>
+</node>
+<node id="Arthur Conley">
+  <data key="d0">22.0</data>
+  <data key="d1">0.6729999999999999</data>
+  <data key="d2">-12.182</data>
+  <data key="d3">0.7915000000000001</data>
+</node>
+<node id="Arthur Lyman">
+  <data key="d0">35.0</data>
+  <data key="d1">0.721</data>
+  <data key="d2">-19.820999999999998</data>
+  <data key="d3">0.209</data>
+</node>
+<node id="B.B. King">
+  <data key="d0">23.0</data>
+  <data key="d1">0.6977500000000001</data>
+  <data key="d2">-10.959125</data>
+  <data key="d3">0.494625</data>
+</node>
+<node id="Baby Washington">
+  <data key="d0">13.25</data>
+  <data key="d1">0.5245</data>
+  <data key="d2">-11.363750000000001</data>
+  <data key="d3">0.427</data>
+</node>
+<node id="Barbara Lewis">
+  <data key="d0">25.6</data>
+  <data key="d1">0.6054</data>
+  <data key="d2">-13.894200000000003</data>
+  <data key="d3">0.38599999999999995</data>
+</node>
+<node id="Barbara Lynn">
+  <data key="d0">29.0</data>
+  <data key="d1">0.7080000000000001</data>
+  <data key="d2">-10.538</data>
+  <data key="d3">0.48100000000000004</data>
+</node>
+<node id="Barbara Mason">
+  <data key="d0">35.4</data>
+  <data key="d1">0.4436</data>
+  <data key="d2">-8.2164</data>
+  <data key="d3">0.3942</data>
+</node>
+<node id="Barbra Streisand">
+  <data key="d0">32.0</data>
+  <data key="d1">0.30833333333333335</data>
+  <data key="d2">-13.607</data>
+  <data key="d3">0.2562333333333333</data>
+</node>
+<node id="Barry McGuire">
+  <data key="d0">57.0</data>
+  <data key="d1">0.613</data>
+  <data key="d2">-17.385</data>
+  <data key="d3">0.307</data>
+</node>
+<node id="Beaky">
+  <data key="d0">32.0</data>
+  <data key="d1">0.486</data>
+  <data key="d2">-6.151</data>
+  <data key="d3">0.879</data>
+</node>
+<node id="Bee Gees">
+  <data key="d0">48.125</data>
+  <data key="d1">0.37800000000000006</data>
+  <data key="d2">-10.707249999999998</data>
+  <data key="d3">0.39699999999999996</data>
+</node>
+<node id="Ben E. King">
+  <data key="d0">31.214285714285715</data>
+  <data key="d1">0.5552142857142857</data>
+  <data key="d2">-11.442214285714286</data>
+  <data key="d3">0.4500714285714286</data>
+</node>
+<node id="Bernard Pretty Purdie">
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">0</data>
+</node>
+<node id="Betty Everett">
+  <data key="d0">12.5</data>
+  <data key="d1">0.4720000000000001</data>
+  <data key="d2">-7.273</data>
+  <data key="d3">0.5055000000000001</data>
+</node>
+<node id="Betty Harris">
+  <data key="d0">7.666666666666667</data>
+  <data key="d1">0.48733333333333334</data>
+  <data key="d2">-9.260666666666665</data>
+  <data key="d3">0.36333333333333334</data>
+</node>
+<node id="Betty Wright">
+  <data key="d0">29.0</data>
+  <data key="d1">0.485</data>
+  <data key="d2">-7.831</data>
+  <data key="d3">0.6609999999999999</data>
+</node>
+<node id="Big Brother &amp; The Holding Company">
+  <data key="d0">49.666666666666664</data>
+  <data key="d1">0.5166666666666667</data>
+  <data key="d2">-8.830333333333334</data>
+  <data key="d3">0.6553333333333334</data>
+</node>
+<node id="Bill Cosby">
+  <data key="d0">9.0</data>
+  <data key="d1">0.643</data>
+  <data key="d2">-13.558</data>
+  <data key="d3">0.369</data>
+</node>
+<node id="Billy Joe Royal">
+  <data key="d0">25.666666666666668</data>
+  <data key="d1">0.5336666666666666</data>
+  <data key="d2">-11.319333333333333</data>
+  <data key="d3">0.5403333333333333</data>
+</node>
+<node id="Billy Preston">
+  <data key="d0">31.0</data>
+  <data key="d1">0.521</data>
+  <data key="d2">-9.18</data>
+  <data key="d3">0.643</data>
+</node>
+<node id="Billy Stewart">
+  <data key="d0">30.5</data>
+  <data key="d1">0.3915</data>
+  <data key="d2">-6.675</data>
+  <data key="d3">0.53</data>
+</node>
+<node id="Billy Strange">
+  <data key="d0">18.0</data>
+  <data key="d1">0.514</data>
+  <data key="d2">-16.405</data>
+  <data key="d3">0.25</data>
+</node>
+<node id="Blood">
+  <data key="d0">40.25</data>
+  <data key="d1">0.5840000000000001</data>
+  <data key="d2">-9.748000000000001</data>
+  <data key="d3">0.5</data>
+</node>
+<node id="Blue Cheer">
+  <data key="d0">16.0</data>
+  <data key="d1">0.39299999999999996</data>
+  <data key="d2">-10.742</data>
+  <data key="d3">0.778</data>
+</node>
+<node id="Bo Diddley">
+  <data key="d0">44.0</data>
+  <data key="d1">0.539</data>
+  <data key="d2">-10.382</data>
+  <data key="d3">0.7829999999999999</data>
+</node>
+<node id="Bob Dylan">
+  <data key="d0">50.7</data>
+  <data key="d1">0.5395</data>
+  <data key="d2">-11.726799999999999</data>
+  <data key="d3">0.5456999999999999</data>
+</node>
+<node id="Bob Seger">
+  <data key="d0">44.0</data>
+  <data key="d1">0.5735</data>
+  <data key="d2">-4.802</data>
+  <data key="d3">0.8374999999999999</data>
+</node>
+<node id="Bobbie Gentry">
+  <data key="d0">30.5</data>
+  <data key="d1">0.5519999999999999</data>
+  <data key="d2">-12.096499999999999</data>
+  <data key="d3">0.32025</data>
+</node>
+<node id="Bobby Bare">
+  <data key="d0">46.5</data>
+  <data key="d1">0.526</data>
+  <data key="d2">-12.017</data>
+  <data key="d3">0.357</data>
+</node>
+<node id="Bobby Blue Bland">
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">0</data>
+</node>
+<node id="Bobby Darin">
+  <data key="d0">29.333333333333332</data>
+  <data key="d1">0.5726666666666667</data>
+  <data key="d2">-5.9656666666666665</data>
+  <data key="d3">0.5746666666666668</data>
+</node>
+<node id="Bobby Goldsboro">
+  <data key="d0">35.5</data>
+  <data key="d1">0.26649999999999996</data>
+  <data key="d2">-12.030999999999999</data>
+  <data key="d3">0.321</data>
+</node>
+<node id="Bobby Hart">
+  <data key="d0">17.25</data>
+  <data key="d1">0.5135000000000001</data>
+  <data key="d2">-9.719249999999999</data>
+  <data key="d3">0.6187499999999999</data>
+</node>
+<node id="Bobby Hebb">
+  <data key="d0">41.5</data>
+  <data key="d1">0.6045</data>
+  <data key="d2">-12.3995</data>
+  <data key="d3">0.3855</data>
+</node>
+<node id="Bobby Powell">
+  <data key="d0">3.0</data>
+  <data key="d1">0.7240000000000001</data>
+  <data key="d2">-8.966000000000003</data>
+  <data key="d3">0.5870000000000001</data>
+</node>
+<node id="Bobby Rydell">
+  <data key="d0">20.4</data>
+  <data key="d1">0.5115999999999999</data>
+  <data key="d2">-5.4626</data>
+  <data key="d3">0.7272000000000001</data>
+</node>
+<node id="Bobby Vee">
+  <data key="d0">17.23076923076923</data>
+  <data key="d1">0.5173076923076924</data>
+  <data key="d2">-10.922615384615382</data>
+  <data key="d3">0.4213846153846154</data>
+</node>
+<node id="Bobby Vinton">
+  <data key="d0">33.2</data>
+  <data key="d1">0.39751999999999993</data>
+  <data key="d2">-11.582159999999996</data>
+  <data key="d3">0.29516</data>
+</node>
+<node id="Bobby Womack">
+  <data key="d0">61.0</data>
+  <data key="d1">0.47</data>
+  <data key="d2">-13.159</data>
+  <data key="d3">0.385</data>
+</node>
+<node id="Booker T. &amp; the M.G.s">
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">0</data>
+</node>
+<node id="Boots Randolph">
+  <data key="d0">1.0</data>
+  <data key="d1">0.384</data>
+  <data key="d2">-12.716</data>
+  <data key="d3">0.337</data>
+</node>
+<node id="Boris Karloff">
+  <data key="d0">40.0</data>
+  <data key="d1">0.517</data>
+  <data key="d2">-10.93</data>
+  <data key="d3">0.484</data>
+</node>
+<node id="Brenda Lee">
+  <data key="d0">40.77777777777778</data>
+  <data key="d1">0.5521666666666667</data>
+  <data key="d2">-9.775166666666667</data>
+  <data key="d3">0.34616666666666673</data>
+</node>
+<node id="Brenton Wood">
+  <data key="d0">51.0</data>
+  <data key="d1">0.7625</data>
+  <data key="d2">-4.8625</data>
+  <data key="d3">0.6844999999999999</data>
+</node>
+<node id="Brian Hyland">
+  <data key="d0">29.0</data>
+  <data key="d1">0.6970000000000001</data>
+  <data key="d2">-6.211</data>
+  <data key="d3">0.82</data>
+</node>
+<node id="Brian Poole &amp; The Tremeloes">
+  <data key="d0">22.0</data>
+  <data key="d1">0.6970000000000001</data>
+  <data key="d2">-14.470999999999998</data>
+  <data key="d3">0.342</data>
+</node>
+<node id="Brook Benton">
+  <data key="d0">36.5</data>
+  <data key="d1">0.5185000000000001</data>
+  <data key="d2">-12.335</data>
+  <data key="d3">0.45225000000000004</data>
+</node>
+<node id="Bud Shank">
+  <data key="d0">5.0</data>
+  <data key="d1">0.5720000000000001</data>
+  <data key="d2">-14.963</data>
+  <data key="d3">0.226</data>
+</node>
+<node id="Burl Ives">
+  <data key="d0">81.0</data>
+  <data key="d1">0.6785</data>
+  <data key="d2">-12.996500000000001</data>
+  <data key="d3">0.3725</data>
+</node>
+<node id="Buster Brown">
+  <data key="d0">5.0</data>
+  <data key="d1">0.581</data>
+  <data key="d2">-7.74</data>
+  <data key="d3">0.77</data>
+</node>
+<node id="Carl Butler">
+  <data key="d0">43.0</data>
+  <data key="d1">0.59</data>
+  <data key="d2">-12.253</data>
+  <data key="d3">0.188</data>
+</node>
+<node id="Carla Thomas">
+  <data key="d0">29.285714285714285</data>
+  <data key="d1">0.6517142857142858</data>
+  <data key="d2">-11.692714285714287</data>
+  <data key="d3">0.37457142857142856</data>
+</node>
+<node id="Carole King">
+  <data key="d0">6.0</data>
+  <data key="d1">0.682</data>
+  <data key="d2">-8.711</data>
+  <data key="d3">0.381</data>
+</node>
+<node id="Chad &amp; Jeremy">
+  <data key="d0">23.875</data>
+  <data key="d1">0.549875</data>
+  <data key="d2">-12.483125000000001</data>
+  <data key="d3">0.44737499999999997</data>
+</node>
+<node id="Charles Wright &amp; The Watts 103rd Street Rhythm Band">
+  <data key="d0">37.0</data>
+  <data key="d1">0.758</data>
+  <data key="d2">-15.534</data>
+  <data key="d3">0.509</data>
+</node>
+<node id="Charlie Rich">
+  <data key="d0">21.0</data>
+  <data key="d1">0.3925</data>
+  <data key="d2">-10.600000000000001</data>
+  <data key="d3">0.538</data>
+</node>
+<node id="Cher">
+  <data key="d0">21.466666666666665</data>
+  <data key="d1">0.4809999999999999</data>
+  <data key="d2">-9.255666666666666</data>
+  <data key="d3">0.5530666666666666</data>
+</node>
+<node id="Chicago">
+  <data key="d0">42.0</data>
+  <data key="d1">0.452</data>
+  <data key="d2">-7.7860000000000005</data>
+  <data key="d3">0.732</data>
+</node>
+<node id="Chris Montez">
+  <data key="d0">33.5</data>
+  <data key="d1">0.6758333333333333</data>
+  <data key="d2">-7.484500000000001</data>
+  <data key="d3">0.6601666666666667</data>
+</node>
+<node id="Chubby Checker">
+  <data key="d0">21.466666666666665</data>
+  <data key="d1">0.6163333333333334</data>
+  <data key="d2">-6.6182</data>
+  <data key="d3">0.6931333333333334</data>
+</node>
+<node id="Chuck Berry">
+  <data key="d0">41.875</data>
+  <data key="d1">0.5708749999999999</data>
+  <data key="d2">-10.091125000000002</data>
+  <data key="d3">0.714</data>
+</node>
+<node id="Chuck Jackson">
+  <data key="d0">12.0</data>
+  <data key="d1">0.693</data>
+  <data key="d2">-15.015999999999998</data>
+  <data key="d3">0.39799999999999996</data>
+</node>
+<node id="Chuck Turner">
+  <data key="d0">16.333333333333332</data>
+  <data key="d1">0.5726666666666667</data>
+  <data key="d2">-10.471333333333334</data>
+  <data key="d3">0.503</data>
+</node>
+<node id="Clarence Carter">
+  <data key="d0">27.571428571428573</data>
+  <data key="d1">0.6787142857142857</data>
+  <data key="d2">-12.692285714285715</data>
+  <data key="d3">0.5152857142857145</data>
+</node>
+<node id="Clarence Reid">
+  <data key="d0">34.0</data>
+  <data key="d1">0.6709999999999999</data>
+  <data key="d2">-8.574</data>
+  <data key="d3">0.573</data>
+</node>
+<node id="Claude King">
+  <data key="d0">18.0</data>
+  <data key="d1">0.601</data>
+  <data key="d2">-11.468</data>
+  <data key="d3">0.43299999999999994</data>
+</node>
+<node id="Cold Blood">
+  <data key="d0">14.0</data>
+  <data key="d1">0.599</data>
+  <data key="d2">-9.846</data>
+  <data key="d3">0.557</data>
+</node>
+<node id="Connie Francis">
+  <data key="d0">18.142857142857142</data>
+  <data key="d1">0.5044285714285713</data>
+  <data key="d2">-10.180000000000001</data>
+  <data key="d3">0.4861428571428571</data>
+</node>
+<node id="Conway Twitty">
+  <data key="d0">14.333333333333334</data>
+  <data key="d1">0.529</data>
+  <data key="d2">-12.519333333333334</data>
+  <data key="d3">0.35200000000000004</data>
+</node>
+<node id="Count Five">
+  <data key="d0">54.0</data>
+  <data key="d1">0.34600000000000003</data>
+  <data key="d2">-6.619</data>
+  <data key="d3">0.75</data>
+</node>
+<node id="Country Joe &amp; The Fish">
+  <data key="d0">33.0</data>
+  <data key="d1">0.525</data>
+  <data key="d2">-13.045</data>
+  <data key="d3">0.374</data>
+</node>
+<node id="Crazy Elephant">
+  <data key="d0">39.0</data>
+  <data key="d1">0.846</data>
+  <data key="d2">-13.790999999999999</data>
+  <data key="d3">0.34600000000000003</data>
+</node>
+<node id="Crazy Horse">
+  <data key="d0">55.0</data>
+  <data key="d1">0.635</data>
+  <data key="d2">-5.278</data>
+  <data key="d3">0.831</data>
+</node>
+<node id="Cream">
+  <data key="d0">66.25</data>
+  <data key="d1">0.55575</data>
+  <data key="d2">-13.257249999999999</data>
+  <data key="d3">0.57575</data>
+</node>
+<node id="Creedence Clearwater Revival">
+  <data key="d0">65.71428571428571</data>
+  <data key="d1">0.6348571428571429</data>
+  <data key="d2">-9.18257142857143</data>
+  <data key="d3">0.6674285714285714</data>
+</node>
+<node id="Crispian St. Peters">
+  <data key="d0">42.0</data>
+  <data key="d1">0.6920000000000001</data>
+  <data key="d2">-7.0889999999999995</data>
+  <data key="d3">0.7340000000000001</data>
+</node>
+<node id="Crosby">
+  <data key="d0">67.0</data>
+  <data key="d1">0.451</data>
+  <data key="d2">-13.126</data>
+  <data key="d3">0.364</data>
+</node>
+<node id="Cubie Burke">
+  <data key="d0">8.0</data>
+  <data key="d1">0.27699999999999997</data>
+  <data key="d2">-13.1</data>
+  <data key="d3">0.235</data>
+</node>
+<node id="Cy Langston">
+  <data key="d0">30.0</data>
+  <data key="d1">0.765</data>
+  <data key="d2">-9.607000000000001</data>
+  <data key="d3">0.591</data>
+</node>
+<node id="Danny &amp; The Juniors">
+  <data key="d0">9.0</data>
+  <data key="d1">0.55</data>
+  <data key="d2">-9.142000000000001</data>
+  <data key="d3">0.6829999999999999</data>
+</node>
+<node id="Darrell Banks">
+  <data key="d0">29.5</data>
+  <data key="d1">0.71</data>
+  <data key="d2">-9.898</data>
+  <data key="d3">0.4635</data>
+</node>
+<node id="Dave Dee">
+  <data key="d0">32.0</data>
+  <data key="d1">0.486</data>
+  <data key="d2">-6.151</data>
+  <data key="d3">0.879</data>
+</node>
+<node id="David Bowie">
+  <data key="d0">74.0</data>
+  <data key="d1">0.299</data>
+  <data key="d2">-12.620999999999999</data>
+  <data key="d3">0.44299999999999995</data>
+</node>
+<node id="David Houston">
+  <data key="d0">45.0</data>
+  <data key="d1">0.251</data>
+  <data key="d2">-11.897</data>
+  <data key="d3">0.33799999999999997</data>
+</node>
+<node id="David Jones">
+  <data key="d0">3.0</data>
+  <data key="d1">0.862</data>
+  <data key="d2">-10.562999999999999</data>
+  <data key="d3">0.636</data>
+</node>
+<node id="David Ruffin">
+  <data key="d0">27.333333333333332</data>
+  <data key="d1">0.501</data>
+  <data key="d2">-8.856</data>
+  <data key="d3">0.6566666666666666</data>
+</node>
+<node id="Davie Allan &amp; The Arrows">
+  <data key="d0">12.0</data>
+  <data key="d1">0.373</data>
+  <data key="d2">-4.494</data>
+  <data key="d3">0.6729999999999999</data>
+</node>
+<node id="Dean Martin">
+  <data key="d0">55.0</data>
+  <data key="d1">0.47200000000000003</data>
+  <data key="d2">-13.853</data>
+  <data key="d3">0.217</data>
+</node>
+<node id="Dee Clark">
+  <data key="d0">21.0</data>
+  <data key="d1">0.381</data>
+  <data key="d2">-7.612999999999999</data>
+  <data key="d3">0.7190000000000001</data>
+</node>
+<node id="Dee Dee Sharp">
+  <data key="d0">34.333333333333336</data>
+  <data key="d1">0.7026666666666667</data>
+  <data key="d2">-6.077666666666666</data>
+  <data key="d3">0.648</data>
+</node>
+<node id="Deep Purple">
+  <data key="d0">47.5</data>
+  <data key="d1">0.46449999999999997</data>
+  <data key="d2">-9.736</data>
+  <data key="d3">0.53</data>
+</node>
+<node id="Del Shannon">
+  <data key="d0">30.0</data>
+  <data key="d1">0.4896</data>
+  <data key="d2">-6.054399999999999</data>
+  <data key="d3">0.7191</data>
+</node>
+<node id="Desmond Dekker">
+  <data key="d0">46.0</data>
+  <data key="d1">0.775</data>
+  <data key="d2">-7.266</data>
+  <data key="d3">0.583</data>
+</node>
+<node id="Diana Ross &amp; The Supremes">
+  <data key="d0">31.363636363636363</data>
+  <data key="d1">0.5550909090909091</data>
+  <data key="d2">-11.684545454545455</data>
+  <data key="d3">0.5087272727272727</data>
+</node>
+<node id="Dinah Washington">
+  <data key="d0">32.285714285714285</data>
+  <data key="d1">0.5394285714285714</data>
+  <data key="d2">-12.21957142857143</data>
+  <data key="d3">0.354</data>
+</node>
+<node id="Dion">
+  <data key="d0">33.42857142857143</data>
+  <data key="d1">0.4522142857142856</data>
+  <data key="d2">-12.858142857142857</data>
+  <data key="d3">0.33362142857142857</data>
+</node>
+<node id="Dion &amp; The Belmonts">
+  <data key="d0">43.0</data>
+  <data key="d1">0.439</data>
+  <data key="d2">-11.124</data>
+  <data key="d3">0.381</data>
+</node>
+<node id="Dionne Warwick">
+  <data key="d0">31.0</data>
+  <data key="d1">0.4805999999999999</data>
+  <data key="d2">-13.1244</data>
+  <data key="d3">0.30227</data>
+</node>
+<node id="Dobie Gray">
+  <data key="d0">8.0</data>
+  <data key="d1">0.7559999999999999</data>
+  <data key="d2">-9.915</data>
+  <data key="d3">0.633</data>
+</node>
+<node id="Don Covay">
+  <data key="d0">32.0</data>
+  <data key="d1">0.8400000000000001</data>
+  <data key="d2">-12.805</data>
+  <data key="d3">0.5705</data>
+</node>
+<node id="Don Gibson">
+  <data key="d0">3.5</data>
+  <data key="d1">0.5760000000000001</data>
+  <data key="d2">-14.75</data>
+  <data key="d3">0.3945</data>
+</node>
+<node id="Donovan">
+  <data key="d0">42.54545454545455</data>
+  <data key="d1">0.524</data>
+  <data key="d2">-13.81909090909091</data>
+  <data key="d3">0.4093636363636364</data>
+</node>
+<node id="Dozy">
+  <data key="d0">32.0</data>
+  <data key="d1">0.486</data>
+  <data key="d2">-6.151</data>
+  <data key="d3">0.879</data>
+</node>
+<node id="Duane Eddy">
+  <data key="d0">10.6</data>
+  <data key="d1">0.6279999999999999</data>
+  <data key="d2">-11.892</data>
+  <data key="d3">0.6338</data>
+</node>
+<node id="Dusty Springfield">
+  <data key="d0">28.25</data>
+  <data key="d1">0.4901666666666667</data>
+  <data key="d2">-9.042000000000002</data>
+  <data key="d3">0.5194166666666667</data>
+</node>
+<node id="Earl Scruggs">
+  <data key="d0">39.0</data>
+  <data key="d1">0.525</data>
+  <data key="d2">-15.220999999999998</data>
+  <data key="d3">0.494</data>
+</node>
+<node id="Eddie Cochran">
+  <data key="d0">45.0</data>
+  <data key="d1">0.6223333333333333</data>
+  <data key="d2">-8.454</data>
+  <data key="d3">0.8053333333333333</data>
+</node>
+<node id="Eddie Fisher">
+  <data key="d0">10.0</data>
+  <data key="d1">0.4495</data>
+  <data key="d2">-9.148</data>
+  <data key="d3">0.412</data>
+</node>
+<node id="Eddie Floyd">
+  <data key="d0">40.5</data>
+  <data key="d1">0.786</data>
+  <data key="d2">-14.833</data>
+  <data key="d3">0.2995</data>
+</node>
+<node id="Eddie Harris">
+  <data key="d0">4.0</data>
+  <data key="d1">0.46399999999999997</data>
+  <data key="d2">-10.704</data>
+  <data key="d3">0.568</data>
+</node>
+<node id="Eddie Holland">
+  <data key="d0">19.0</data>
+  <data key="d1">0.6709999999999999</data>
+  <data key="d2">-7.726</data>
+  <data key="d3">0.6809999999999999</data>
+</node>
+<node id="Eddie Holman">
+  <data key="d0">45.0</data>
+  <data key="d1">0.408</data>
+  <data key="d2">-10.886</data>
+  <data key="d3">0.316</data>
+</node>
+<node id="Eddy Arnold">
+  <data key="d0">19.5</data>
+  <data key="d1">0.348</data>
+  <data key="d2">-14.695749999999999</data>
+  <data key="d3">0.1965</data>
+</node>
+<node id="Edwin Starr">
+  <data key="d0">15.0</data>
+  <data key="d1">0.617</data>
+  <data key="d2">-9.821</data>
+  <data key="d3">0.6679999999999999</data>
+</node>
+<node id="Ella Fitzgerald">
+  <data key="d0">37.0</data>
+  <data key="d1">0.568</data>
+  <data key="d2">-10.244000000000002</data>
+  <data key="d3">0.628</data>
+</node>
+<node id="Ella Washington">
+  <data key="d0">9.0</data>
+  <data key="d1">0.35200000000000004</data>
+  <data key="d2">-8.219</data>
+  <data key="d3">0.368</data>
+</node>
+<node id="Elvis Presley">
+  <data key="d0">37.76923076923077</data>
+  <data key="d1">0.5023076923076922</data>
+  <data key="d2">-13.08076923076923</data>
+  <data key="d3">0.4831</data>
+</node>
+<node id="Engelbert Humperdinck">
+  <data key="d0">43.2</data>
+  <data key="d1">0.34859999999999997</data>
+  <data key="d2">-11.616200000000001</data>
+  <data key="d3">0.42460000000000003</data>
+</node>
+<node id="Eric Burdon &amp; the Animals">
+  <data key="d0">19.6</data>
+  <data key="d1">0.49539999999999995</data>
+  <data key="d2">-9.634</data>
+  <data key="d3">0.5638</data>
+</node>
+<node id="Eternitys Children">
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">0</data>
+</node>
+<node id="Etta James">
+  <data key="d0">40.333333333333336</data>
+  <data key="d1">0.47058333333333335</data>
+  <data key="d2">-9.647666666666666</data>
+  <data key="d3">0.4609166666666667</data>
+</node>
+<node id="Etta Jones">
+  <data key="d0">34.0</data>
+  <data key="d1">0.392</data>
+  <data key="d2">-19.312</data>
+  <data key="d3">0.0293</data>
+</node>
+<node id="Fats Domino">
+  <data key="d0">20.285714285714285</data>
+  <data key="d1">0.5702857142857144</data>
+  <data key="d2">-12.577</data>
+  <data key="d3">0.4337142857142857</data>
+</node>
+<node id="Flatt &amp; Scruggs">
+  <data key="d0">49.0</data>
+  <data key="d1">0.40700000000000003</data>
+  <data key="d2">-14.780999999999999</data>
+  <data key="d3">0.479</data>
+</node>
+<node id="Floyd Cramer">
+  <data key="d0">30.5</data>
+  <data key="d1">0.5895</data>
+  <data key="d2">-10.579999999999998</data>
+  <data key="d3">0.6285</data>
+</node>
+<node id="Fontella Bass">
+  <data key="d0">66.0</data>
+  <data key="d1">0.6779999999999999</data>
+  <data key="d2">-9.468</data>
+  <data key="d3">0.544</data>
+</node>
+<node id="Four Tops">
+  <data key="d0">39.1</data>
+  <data key="d1">0.6075</data>
+  <data key="d2">-9.1082</data>
+  <data key="d3">0.6281999999999999</data>
+</node>
+<node id="Frank Sinatra">
+  <data key="d0">39.36842105263158</data>
+  <data key="d1">0.36515789473684207</data>
+  <data key="d2">-13.024684210526313</data>
+  <data key="d3">0.3047368421052632</data>
+</node>
+<node id="Frankie Avalon">
+  <data key="d0">22.5</data>
+  <data key="d1">0.48666666666666664</data>
+  <data key="d2">-11.485</data>
+  <data key="d3">0.41683333333333333</data>
+</node>
+<node id="Frankie Valli">
+  <data key="d0">30.083333333333332</data>
+  <data key="d1">0.5977500000000001</data>
+  <data key="d2">-7.963500000000001</data>
+  <data key="d3">0.6162499999999999</data>
+</node>
+<node id="Frankie Valli &amp; The Four Seasons">
+  <data key="d0">30.7</data>
+  <data key="d1">0.5898</data>
+  <data key="d2">-8.2101</data>
+  <data key="d3">0.6159999999999999</data>
+</node>
+<node id="Friend &amp; Lover">
+  <data key="d0">21.0</data>
+  <data key="d1">0.533</data>
+  <data key="d2">-13.1175</data>
+  <data key="d3">0.4525</data>
+</node>
+<node id="Gale Garnett">
+  <data key="d0">19.5</data>
+  <data key="d1">0.5565</data>
+  <data key="d2">-8.466999999999999</data>
+  <data key="d3">0.4385</data>
+</node>
+<node id="Garland Green">
+  <data key="d0">31.0</data>
+  <data key="d1">0.42100000000000004</data>
+  <data key="d2">-7.6789999999999985</data>
+  <data key="d3">0.619</data>
+</node>
+<node id="Garnet Mimms &amp; The Enchanters">
+  <data key="d0">27.0</data>
+  <data key="d1">0.6890000000000001</data>
+  <data key="d2">-12.22</data>
+  <data key="d3">0.37799999999999995</data>
+</node>
+<node id="Gary Lewis &amp; The Playboys">
+  <data key="d0">28.4</data>
+  <data key="d1">0.5714</data>
+  <data key="d2">-9.9714</data>
+  <data key="d3">0.5256000000000001</data>
+</node>
+<node id="Gary Puckett">
+  <data key="d0">34.0</data>
+  <data key="d1">0.43988888888888883</data>
+  <data key="d2">-9.49977777777778</data>
+  <data key="d3">0.5298888888888889</data>
+</node>
+<node id="Gary Puckett &amp; The Union Gap">
+  <data key="d0">36.25</data>
+  <data key="d1">0.4205</data>
+  <data key="d2">-9.621250000000002</data>
+  <data key="d3">0.50175</data>
+</node>
+<node id="Gary U.S. Bonds">
+  <data key="d0">27.0</data>
+  <data key="d1">0.5670000000000001</data>
+  <data key="d2">-7.643</data>
+  <data key="d3">0.851</data>
+</node>
+<node id="Gene Chandler">
+  <data key="d0">21.875</data>
+  <data key="d1">0.544125</data>
+  <data key="d2">-10.159375</data>
+  <data key="d3">0.460125</data>
+</node>
+<node id="Gene Pitney">
+  <data key="d0">33.0</data>
+  <data key="d1">0.564</data>
+  <data key="d2">-6.716</data>
+  <data key="d3">0.74</data>
+</node>
+<node id="George Hamilton IV">
+  <data key="d0">47.0</data>
+  <data key="d1">0.63</data>
+  <data key="d2">-15.015</data>
+  <data key="d3">0.44799999999999995</data>
+</node>
+<node id="George Jones">
+  <data key="d0">55.0</data>
+  <data key="d1">0.428</data>
+  <data key="d2">-7.73</data>
+  <data key="d3">0.701</data>
+</node>
+<node id="Georgie Fame">
+  <data key="d0">38.0</data>
+  <data key="d1">0.706</data>
+  <data key="d2">-9.523</data>
+  <data key="d3">0.467</data>
+</node>
+<node id="Gerry &amp; The Pacemakers">
+  <data key="d0">56.0</data>
+  <data key="d1">0.396</data>
+  <data key="d2">-11.494000000000002</data>
+  <data key="d3">0.28600000000000003</data>
+</node>
+<node id="Gladys Knight &amp; The Pips">
+  <data key="d0">31.25</data>
+  <data key="d1">0.602625</data>
+  <data key="d2">-12.380875</data>
+  <data key="d3">0.4692499999999999</data>
+</node>
+<node id="Glen Campbell">
+  <data key="d0">52.6</data>
+  <data key="d1">0.36019999999999996</data>
+  <data key="d2">-11.5818</data>
+  <data key="d3">0.43420000000000003</data>
+</node>
+<node id="Glenn Yarbrough">
+  <data key="d0">17.5</data>
+  <data key="d1">0.501</data>
+  <data key="d2">-10.496500000000001</data>
+  <data key="d3">0.546</data>
+</node>
+<node id="Gloria Lynne">
+  <data key="d0">16.0</data>
+  <data key="d1">0.42299999999999993</data>
+  <data key="d2">-14.127</data>
+  <data key="d3">0.312</data>
+</node>
+<node id="Grand Funk Railroad">
+  <data key="d0">31.0</data>
+  <data key="d1">0.299</data>
+  <data key="d2">-8.185</data>
+  <data key="d3">0.601</data>
+</node>
+<node id="Harpers Bizarre">
+  <data key="d0">21.333333333333332</data>
+  <data key="d1">0.4703333333333333</data>
+  <data key="d2">-9.713333333333333</data>
+  <data key="d3">0.6133333333333334</data>
+</node>
+<node id="Harry Nilsson">
+  <data key="d0">55.5</data>
+  <data key="d1">0.478</data>
+  <data key="d2">-15.2985</data>
+  <data key="d3">0.39</data>
+</node>
+<node id="Harvey Fuqua">
+  <data key="d0">38.5</data>
+  <data key="d1">0.5425</data>
+  <data key="d2">-6.959</data>
+  <data key="d3">0.6025</data>
+</node>
+<node id="Hayley Mills">
+  <data key="d0">1.0</data>
+  <data key="d1">0.479</data>
+  <data key="d2">-8.285</data>
+  <data key="d3">0.585</data>
+</node>
+<node id="Herb Alpert &amp; The Tijuana Brass">
+  <data key="d0">30.705882352941178</data>
+  <data key="d1">0.6266470588235293</data>
+  <data key="d2">-12.30282352941176</data>
+  <data key="d3">0.4545294117647059</data>
+</node>
+<node id="Herbie Mann">
+  <data key="d0">46.0</data>
+  <data key="d1">0.779</data>
+  <data key="d2">-17.37</data>
+  <data key="d3">0.41100000000000003</data>
+</node>
+<node id="Hermans Hermits">
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">0</data>
+</node>
+<node id="Horst Jankowski">
+  <data key="d0">20.0</data>
+  <data key="d1">0.6735</data>
+  <data key="d2">-13.211500000000001</data>
+  <data key="d3">0.3655</data>
+</node>
+<node id="Hugh Masekela">
+  <data key="d0">41.0</data>
+  <data key="d1">0.6659999999999999</data>
+  <data key="d2">-12.193</data>
+  <data key="d3">0.573</data>
+</node>
+<node id="Ike &amp; Tina Turner">
+  <data key="d0">29.0</data>
+  <data key="d1">0.73475</data>
+  <data key="d2">-10.33475</data>
+  <data key="d3">0.50375</data>
+</node>
+<node id="Irma Thomas">
+  <data key="d0">20.5</data>
+  <data key="d1">0.3385</data>
+  <data key="d2">-9.4465</data>
+  <data key="d3">0.509</data>
+</node>
+<node id="Iron Butterfly">
+  <data key="d0">22.0</data>
+  <data key="d1">0.8009999999999999</data>
+  <data key="d2">-15.288</data>
+  <data key="d3">0.244</data>
+</node>
+<node id="Jack Jones">
+  <data key="d0">19.5</data>
+  <data key="d1">0.3475</data>
+  <data key="d2">-11.311333333333332</data>
+  <data key="d3">0.38316666666666666</data>
+</node>
+<node id="Jackie DeShannon">
+  <data key="d0">35.0</data>
+  <data key="d1">0.58</data>
+  <data key="d2">-8.068</data>
+  <data key="d3">0.65</data>
+</node>
+<node id="Jackie Lee">
+  <data key="d0">12.0</data>
+  <data key="d1">0.737</data>
+  <data key="d2">-7.261</data>
+  <data key="d3">0.614</data>
+</node>
+<node id="Jackie Wilson">
+  <data key="d0">12.666666666666666</data>
+  <data key="d1">0.5308888888888891</data>
+  <data key="d2">-7.885222222222222</data>
+  <data key="d3">0.5696666666666668</data>
+</node>
+<node id="James &amp; Bobby Purify">
+  <data key="d0">21.0</data>
+  <data key="d1">0.675</data>
+  <data key="d2">-10.001</data>
+  <data key="d3">0.521</data>
+</node>
+<node id="James Brown">
+  <data key="d0">25.476190476190474</data>
+  <data key="d1">0.5411428571428571</data>
+  <data key="d2">-11.683809523809524</data>
+  <data key="d3">0.4219333333333333</data>
+</node>
+<node id="James Brown &amp; The Famous Flames">
+  <data key="d0">25.75</data>
+  <data key="d1">0.53895</data>
+  <data key="d2">-11.642949999999999</data>
+  <data key="d3">0.42467999999999995</data>
+</node>
+<node id="James Darren">
+  <data key="d0">10.666666666666666</data>
+  <data key="d1">0.4716666666666667</data>
+  <data key="d2">-8.337</data>
+  <data key="d3">0.6866666666666666</data>
+</node>
+<node id="Jan &amp; Dean">
+  <data key="d0">25.333333333333332</data>
+  <data key="d1">0.5246666666666666</data>
+  <data key="d2">-9.266666666666666</data>
+  <data key="d3">0.7846666666666667</data>
+</node>
+<node id="Janis Joplin">
+  <data key="d0">49.666666666666664</data>
+  <data key="d1">0.5166666666666667</data>
+  <data key="d2">-8.830333333333334</data>
+  <data key="d3">0.6553333333333334</data>
+</node>
+<node id="Jay &amp; The Americans">
+  <data key="d0">24.375</data>
+  <data key="d1">0.5325000000000001</data>
+  <data key="d2">-11.1775</data>
+  <data key="d3">0.5576875</data>
+</node>
+<node id="Jay &amp; The Techniques">
+  <data key="d0">38.0</data>
+  <data key="d1">0.637</data>
+  <data key="d2">-8.67</data>
+  <data key="d3">0.715</data>
+</node>
+<node id="Jefferson">
+  <data key="d0">39.57142857142857</data>
+  <data key="d1">0.4741428571428572</data>
+  <data key="d2">-10.554571428571426</data>
+  <data key="d3">0.5597142857142857</data>
+</node>
+<node id="Jefferson Airplane">
+  <data key="d0">43.333333333333336</data>
+  <data key="d1">0.4611666666666667</data>
+  <data key="d2">-10.833166666666665</data>
+  <data key="d3">0.5431666666666667</data>
+</node>
+<node id="Jerry Butler">
+  <data key="d0">16.666666666666668</data>
+  <data key="d1">0.5379999999999999</data>
+  <data key="d2">-8.905999999999999</data>
+  <data key="d3">0.524</data>
+</node>
+<node id="Jerry Jeff Walker">
+  <data key="d0">50.0</data>
+  <data key="d1">0.4270000000000001</data>
+  <data key="d2">-27.119</data>
+  <data key="d3">0.0801</data>
+</node>
+<node id="Jerry Lee Lewis">
+  <data key="d0">25.666666666666668</data>
+  <data key="d1">0.5323333333333333</data>
+  <data key="d2">-9.548333333333332</data>
+  <data key="d3">0.5796666666666667</data>
+</node>
+<node id="Jerry Vale">
+  <data key="d0">3.0</data>
+  <data key="d1">0.353</data>
+  <data key="d2">-11.142999999999999</data>
+  <data key="d3">0.469</data>
+</node>
+<node id="Jethro Tull">
+  <data key="d0">46.0</data>
+  <data key="d1">0.6859999999999999</data>
+  <data key="d2">-11.024000000000001</data>
+  <data key="d3">0.488</data>
+</node>
+<node id="Jim Reeves">
+  <data key="d0">32.5</data>
+  <data key="d1">0.5335000000000001</data>
+  <data key="d2">-14.366499999999998</data>
+  <data key="d3">0.30499999999999994</data>
+</node>
+<node id="Jimi Hendrix">
+  <data key="d0">62.0</data>
+  <data key="d1">0.507</data>
+  <data key="d2">-5.987</data>
+  <data key="d3">0.847</data>
+</node>
+<node id="Jimmy Castor">
+  <data key="d0">36.0</data>
+  <data key="d1">0.713</data>
+  <data key="d2">-8.853</data>
+  <data key="d3">0.79</data>
+</node>
+<node id="Jimmy Dean">
+  <data key="d0">23.142857142857142</data>
+  <data key="d1">0.531</data>
+  <data key="d2">-12.123571428571429</data>
+  <data key="d3">0.42842857142857144</data>
+</node>
+<node id="Jimmy McGriff">
+  <data key="d0">35.0</data>
+  <data key="d1">0.764</data>
+  <data key="d2">-8.451</data>
+  <data key="d3">0.695</data>
+</node>
+<node id="Jimmy Reed">
+  <data key="d0">21.5</data>
+  <data key="d1">0.6635</data>
+  <data key="d2">-10.1585</data>
+  <data key="d3">0.4275</data>
+</node>
+<node id="Jimmy Ruffin">
+  <data key="d0">22.0</data>
+  <data key="d1">0.492</data>
+  <data key="d2">-7.009</data>
+  <data key="d3">0.6214999999999999</data>
+</node>
+<node id="Jimmy Smith">
+  <data key="d0">15.0</data>
+  <data key="d1">0.685</data>
+  <data key="d2">-12.056</data>
+  <data key="d3">0.22399999999999998</data>
+</node>
+<node id="Joanie Sommers">
+  <data key="d0">23.0</data>
+  <data key="d1">0.548</data>
+  <data key="d2">-14.529</data>
+  <data key="d3">0.21400000000000002</data>
+</node>
+<node id="Jody Miller">
+  <data key="d0">10.0</data>
+  <data key="d1">0.484</data>
+  <data key="d2">-10.026</data>
+  <data key="d3">0.375</data>
+</node>
+<node id="Joe Cocker">
+  <data key="d0">52.333333333333336</data>
+  <data key="d1">0.454</data>
+  <data key="d2">-10.596333333333334</data>
+  <data key="d3">0.5226666666666667</data>
+</node>
+<node id="Joe Henderson">
+  <data key="d0">0.0</data>
+  <data key="d1">0.48</data>
+  <data key="d2">-12.248</data>
+  <data key="d3">0.45399999999999996</data>
+</node>
+<node id="Joe Simon">
+  <data key="d0">12.666666666666666</data>
+  <data key="d1">0.543</data>
+  <data key="d2">-12.103166666666667</data>
+  <data key="d3">0.43616666666666665</data>
+</node>
+<node id="Joe South">
+  <data key="d0">44.0</data>
+  <data key="d1">0.33</data>
+  <data key="d2">-8.395</data>
+  <data key="d3">0.693</data>
+</node>
+<node id="John D. Loudermilk">
+  <data key="d0">11.5</data>
+  <data key="d1">0.6125</data>
+  <data key="d2">-11.59675</data>
+  <data key="d3">0.5465</data>
+</node>
+<node id="John Gary">
+  <data key="d0">0.0</data>
+  <data key="d1">0.45799999999999996</data>
+  <data key="d2">-7.5429999999999975</data>
+  <data key="d3">0.363</data>
+</node>
+<node id="John Lee Hooker">
+  <data key="d0">57.0</data>
+  <data key="d1">0.441</data>
+  <data key="d2">-14.207</data>
+  <data key="d3">0.455</data>
+</node>
+<node id="John Mayall">
+  <data key="d0">20.0</data>
+  <data key="d1">0.541</data>
+  <data key="d2">-10.547</data>
+  <data key="d3">0.875</data>
+</node>
+<node id="Johnnie Taylor">
+  <data key="d0">29.5</data>
+  <data key="d1">0.797</data>
+  <data key="d2">-12.746500000000001</data>
+  <data key="d3">0.41300000000000003</data>
+</node>
+<node id="Johnny Adams">
+  <data key="d0">12.5</data>
+  <data key="d1">0.432</data>
+  <data key="d2">-11.781500000000001</data>
+  <data key="d3">0.46699999999999997</data>
+</node>
+<node id="Johnny Burnette">
+  <data key="d0">27.75</data>
+  <data key="d1">0.48675</data>
+  <data key="d2">-9.69525</data>
+  <data key="d3">0.49624999999999997</data>
+</node>
+<node id="Johnny Cash">
+  <data key="d0">51.0</data>
+  <data key="d1">0.64475</data>
+  <data key="d2">-11.287499999999998</data>
+  <data key="d3">0.5589999999999999</data>
+</node>
+<node id="Johnny Horton">
+  <data key="d0">44.0</data>
+  <data key="d1">0.714</data>
+  <data key="d2">-12.802999999999999</data>
+  <data key="d3">0.52825</data>
+</node>
+<node id="Johnny Mathis">
+  <data key="d0">25.0</data>
+  <data key="d1">0.247</data>
+  <data key="d2">-8.522</data>
+  <data key="d3">0.496</data>
+</node>
+<node id="Johnny Rivers">
+  <data key="d0">35.0</data>
+  <data key="d1">0.4376666666666667</data>
+  <data key="d2">-12.34966666666667</data>
+  <data key="d3">0.47300000000000003</data>
+</node>
+<node id="Johnny Tillotson">
+  <data key="d0">1.0</data>
+  <data key="d1">0.41200000000000003</data>
+  <data key="d2">-7.195</data>
+  <data key="d3">0.675</data>
+</node>
+<node id="Johnny Winter">
+  <data key="d0">34.0</data>
+  <data key="d1">0.326</data>
+  <data key="d2">-8.676</data>
+  <data key="d3">0.7979999999999999</data>
+</node>
+<node id="Jon &amp; Robin">
+  <data key="d0">14.0</data>
+  <data key="d1">0.5589999999999999</data>
+  <data key="d2">-11.925</data>
+  <data key="d3">0.361</data>
+</node>
+<node id="José Feliciano">
+  <data key="d0">17.666666666666668</data>
+  <data key="d1">0.5379999999999999</data>
+  <data key="d2">-9.684333333333335</data>
+  <data key="d3">0.539</data>
+</node>
+<node id="Jr. Walker &amp; The All Stars">
+  <data key="d0">40.375</data>
+  <data key="d1">0.68025</data>
+  <data key="d2">-7.199125</data>
+  <data key="d3">0.682</data>
+</node>
+<node id="Judy Collins">
+  <data key="d0">23.0</data>
+  <data key="d1">0.6074999999999999</data>
+  <data key="d2">-11.509</data>
+  <data key="d3">0.421</data>
+</node>
+<node id="Kai Winding">
+  <data key="d0">24.0</data>
+  <data key="d1">0.435</data>
+  <data key="d2">-12.065</data>
+  <data key="d3">0.5539999999999999</data>
+</node>
+<node id="Keith">
+  <data key="d0">7.0</data>
+  <data key="d1">0.5203333333333333</data>
+  <data key="d2">-8.255333333333333</data>
+  <data key="d3">0.5863333333333333</data>
+</node>
+<node id="Kenny Burrell">
+  <data key="d0">24.0</data>
+  <data key="d1">0.435</data>
+  <data key="d2">-12.065</data>
+  <data key="d3">0.5539999999999999</data>
+</node>
+<node id="Kenny ODell">
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">0</data>
+</node>
+<node id="Kim Weston">
+  <data key="d0">38.0</data>
+  <data key="d1">0.562</data>
+  <data key="d2">-11.4055</data>
+  <data key="d3">0.4655</data>
+</node>
+<node id="King Curtis">
+  <data key="d0">19.4</data>
+  <data key="d1">0.5673999999999999</data>
+  <data key="d2">-12.218</data>
+  <data key="d3">0.39479999999999993</data>
+</node>
+<node id="Kitty Kallen">
+  <data key="d0">12.0</data>
+  <data key="d1">0.193</data>
+  <data key="d2">-15.138</data>
+  <data key="d3">0.231</data>
+</node>
+<node id="LaVern Baker">
+  <data key="d0">20.333333333333332</data>
+  <data key="d1">0.596</data>
+  <data key="d2">-11.671999999999999</data>
+  <data key="d3">0.4383333333333333</data>
+</node>
+<node id="Larry Williams &amp; Johnny Watson">
+  <data key="d0">7.0</data>
+  <data key="d1">0.488</data>
+  <data key="d2">-9.383</data>
+  <data key="d3">0.589</data>
+</node>
+<node id="Led Zeppelin">
+  <data key="d0">66.0</data>
+  <data key="d1">0.4543333333333333</data>
+  <data key="d2">-9.883666666666668</data>
+  <data key="d3">0.809</data>
+</node>
+<node id="Lee Hazlewood">
+  <data key="d0">47.666666666666664</data>
+  <data key="d1">0.4283333333333333</data>
+  <data key="d2">-7.342666666666666</data>
+  <data key="d3">0.6633333333333333</data>
+</node>
+<node id="Lefty Frizzell">
+  <data key="d0">41.0</data>
+  <data key="d1">0.596</data>
+  <data key="d2">-14.933</data>
+  <data key="d3">0.366</data>
+</node>
+<node id="Lesley Gore">
+  <data key="d0">31.615384615384617</data>
+  <data key="d1">0.522</data>
+  <data key="d2">-10.612076923076923</data>
+  <data key="d3">0.5003076923076922</data>
+</node>
+<node id="Lester Flatt">
+  <data key="d0">39.0</data>
+  <data key="d1">0.525</data>
+  <data key="d2">-15.220999999999998</data>
+  <data key="d3">0.494</data>
+</node>
+<node id="Linda Ronstadt">
+  <data key="d0">11.0</data>
+  <data key="d1">0.53</data>
+  <data key="d2">-5.113</data>
+  <data key="d3">0.5920000000000001</data>
+</node>
+<node id="Little Anthony &amp; The Imperials">
+  <data key="d0">36.0</data>
+  <data key="d1">0.52</data>
+  <data key="d2">-10.694333333333333</data>
+  <data key="d3">0.4376666666666667</data>
+</node>
+<node id="Little Eva">
+  <data key="d0">59.0</data>
+  <data key="d1">0.629</data>
+  <data key="d2">-9.595</data>
+  <data key="d3">0.782</data>
+</node>
+<node id="Little Jimmy Dickens">
+  <data key="d0">41.0</data>
+  <data key="d1">0.66</data>
+  <data key="d2">-8.446</data>
+  <data key="d3">0.8009999999999999</data>
+</node>
+<node id="Little Peggy March">
+  <data key="d0">53.0</data>
+  <data key="d1">0.638</data>
+  <data key="d2">-10.892000000000001</data>
+  <data key="d3">0.44</data>
+</node>
+<node id="Liverpool Five">
+  <data key="d0">2.0</data>
+  <data key="d1">0.39899999999999997</data>
+  <data key="d2">-11.484000000000002</data>
+  <data key="d3">0.423</data>
+</node>
+<node id="Long John Baldry">
+  <data key="d0">36.0</data>
+  <data key="d1">0.45799999999999996</data>
+  <data key="d2">-8.547</data>
+  <data key="d3">0.7240000000000001</data>
+</node>
+<node id="Lorne Greene">
+  <data key="d0">29.5</data>
+  <data key="d1">0.608</data>
+  <data key="d2">-10.878499999999999</data>
+  <data key="d3">0.533</data>
+</node>
+<node id="Los Bravos">
+  <data key="d0">36.5</data>
+  <data key="d1">0.5555</data>
+  <data key="d2">-5.035</data>
+  <data key="d3">0.895</data>
+</node>
+<node id="Los Indios Tabajaras">
+  <data key="d0">41.5</data>
+  <data key="d1">0.6595</data>
+  <data key="d2">-19.792</data>
+  <data key="d3">0.09204999999999999</data>
+</node>
+<node id="Lou Christie">
+  <data key="d0">20.4</data>
+  <data key="d1">0.6368</data>
+  <data key="d2">-8.5722</data>
+  <data key="d3">0.6397999999999999</data>
+</node>
+<node id="Lou Donaldson">
+  <data key="d0">44.0</data>
+  <data key="d1">0.7390000000000001</data>
+  <data key="d2">-17.655</data>
+  <data key="d3">0.479</data>
+</node>
+<node id="Lou Monte">
+  <data key="d0">21.0</data>
+  <data key="d1">0.7895000000000001</data>
+  <data key="d2">-8.782</data>
+  <data key="d3">0.585</data>
+</node>
+<node id="Lou Rawls">
+  <data key="d0">17.0</data>
+  <data key="d1">0.37</data>
+  <data key="d2">-10.859000000000002</data>
+  <data key="d3">0.434</data>
+</node>
+<node id="Louis Armstrong">
+  <data key="d0">35.666666666666664</data>
+  <data key="d1">0.43199999999999994</data>
+  <data key="d2">-12.364333333333333</data>
+  <data key="d3">0.4836666666666667</data>
+</node>
+<node id="Louis Prima">
+  <data key="d0">5.0</data>
+  <data key="d1">0.442</data>
+  <data key="d2">-18.048</data>
+  <data key="d3">0.11900000000000001</data>
+</node>
+<node id="Love">
+  <data key="d0">36.4</data>
+  <data key="d1">0.5319999999999999</data>
+  <data key="d2">-11.840599999999998</data>
+  <data key="d3">0.513</data>
+</node>
+<node id="Lulu">
+  <data key="d0">28.0</data>
+  <data key="d1">0.42700000000000005</data>
+  <data key="d2">-9.2775</data>
+  <data key="d3">0.402</data>
+</node>
+<node id="Luther Ingram">
+  <data key="d0">21.0</data>
+  <data key="d1">0.5804</data>
+  <data key="d2">-8.0168</data>
+  <data key="d3">0.5946</data>
+</node>
+<node id="Lynn Anderson">
+  <data key="d0">11.5</data>
+  <data key="d1">0.499</data>
+  <data key="d2">-10.4135</data>
+  <data key="d3">0.47275</data>
+</node>
+<node id="Mahalia Jackson">
+  <data key="d0">55.0</data>
+  <data key="d1">0.20199999999999999</data>
+  <data key="d2">-20.881</data>
+  <data key="d3">0.0246</data>
+</node>
+<node id="Manfred Mann">
+  <data key="d0">39.8</data>
+  <data key="d1">0.5248</data>
+  <data key="d2">-7.863600000000001</data>
+  <data key="d3">0.6212</data>
+</node>
+<node id="Mark Lindsay">
+  <data key="d0">14.8</data>
+  <data key="d1">0.5336</data>
+  <data key="d2">-8.357800000000001</data>
+  <data key="d3">0.8038000000000001</data>
+</node>
+<node id="Martha Reeves &amp; The Vandellas">
+  <data key="d0">29.5</data>
+  <data key="d1">0.6128</data>
+  <data key="d2">-8.328100000000001</data>
+  <data key="d3">0.624</data>
+</node>
+<node id="Marty Paich">
+  <data key="d0">1.0</data>
+  <data key="d1">0.205</data>
+  <data key="d2">-12.647</data>
+  <data key="d3">0.183</data>
+</node>
+<node id="Marty Robbins">
+  <data key="d0">31.5</data>
+  <data key="d1">0.5305000000000001</data>
+  <data key="d2">-13.5865</data>
+  <data key="d3">0.316</data>
+</node>
+<node id="Marvin Gaye">
+  <data key="d0">38.333333333333336</data>
+  <data key="d1">0.6398666666666665</data>
+  <data key="d2">-10.81063333333333</data>
+  <data key="d3">0.5227333333333333</data>
+</node>
+<node id="Mary Hopkin">
+  <data key="d0">42.0</data>
+  <data key="d1">0.40449999999999997</data>
+  <data key="d2">-10.431000000000001</data>
+  <data key="d3">0.3795</data>
+</node>
+<node id="Mary Wells">
+  <data key="d0">36.888888888888886</data>
+  <data key="d1">0.7077777777777778</data>
+  <data key="d2">-12.500888888888888</data>
+  <data key="d3">0.4355555555555555</data>
+</node>
+<node id="Mick &amp; Tich">
+  <data key="d0">32.0</data>
+  <data key="d1">0.486</data>
+  <data key="d2">-6.151</data>
+  <data key="d3">0.879</data>
+</node>
+<node id="Mike Douglas">
+  <data key="d0">10.0</data>
+  <data key="d1">0.34299999999999997</data>
+  <data key="d2">-16.204</data>
+  <data key="d3">0.262</data>
+</node>
+<node id="Mongo Santamaria">
+  <data key="d0">22.5</data>
+  <data key="d1">0.676</data>
+  <data key="d2">-7.296000000000001</data>
+  <data key="d3">0.8480000000000001</data>
+</node>
+<node id="Nancy Sinatra">
+  <data key="d0">40.125</data>
+  <data key="d1">0.508875</data>
+  <data key="d2">-8.241750000000001</data>
+  <data key="d3">0.6210000000000001</data>
+</node>
+<node id="Nancy Wilson">
+  <data key="d0">29.666666666666668</data>
+  <data key="d1">0.501</data>
+  <data key="d2">-9.081666666666669</data>
+  <data key="d3">0.5923333333333333</data>
+</node>
+<node id="Nat King Cole">
+  <data key="d0">25.294117647058822</data>
+  <data key="d1">0.42482352941176466</data>
+  <data key="d2">-12.686823529411766</data>
+  <data key="d3">0.3341176470588236</data>
+</node>
+<node id="Neil Diamond">
+  <data key="d0">41.666666666666664</data>
+  <data key="d1">0.47666666666666657</data>
+  <data key="d2">-7.838833333333334</data>
+  <data key="d3">0.6285416666666667</data>
+</node>
+<node id="Neil Sedaka">
+  <data key="d0">53.0</data>
+  <data key="d1">0.6205</data>
+  <data key="d2">-5.1739999999999995</data>
+  <data key="d3">0.7975</data>
+</node>
+<node id="Neil Young">
+  <data key="d0">55.0</data>
+  <data key="d1">0.635</data>
+  <data key="d2">-5.278</data>
+  <data key="d3">0.831</data>
+</node>
+<node id="Nelson Riddle">
+  <data key="d0">37.0</data>
+  <data key="d1">0.424</data>
+  <data key="d2">-12.24</data>
+  <data key="d3">0.462</data>
+</node>
+<node id="Nina Simone">
+  <data key="d0">49.333333333333336</data>
+  <data key="d1">0.5113333333333334</data>
+  <data key="d2">-11.252333333333334</data>
+  <data key="d3">0.4443333333333333</data>
+</node>
+<node id="Noel Harrison">
+  <data key="d0">10.0</data>
+  <data key="d1">0.483</data>
+  <data key="d2">-17.027</data>
+  <data key="d3">0.27399999999999997</data>
+</node>
+<node id="Norma Tanega">
+  <data key="d0">34.0</data>
+  <data key="d1">0.5720000000000001</data>
+  <data key="d2">-6.205</data>
+  <data key="d3">0.55</data>
+</node>
+<node id="Norman Greenbaum">
+  <data key="d0">42.5</data>
+  <data key="d1">0.5965</data>
+  <data key="d2">-7.591000000000001</data>
+  <data key="d3">0.653</data>
+</node>
+<node id="O.C. Smith">
+  <data key="d0">6.666666666666667</data>
+  <data key="d1">0.4716666666666667</data>
+  <data key="d2">-13.067</data>
+  <data key="d3">0.48033333333333333</data>
+</node>
+<node id="Ohio Express">
+  <data key="d0">15.333333333333334</data>
+  <data key="d1">0.6053333333333333</data>
+  <data key="d2">-8.375</data>
+  <data key="d3">0.7503333333333333</data>
+</node>
+<node id="Otis Redding">
+  <data key="d0">45.0</data>
+  <data key="d1">0.649625</data>
+  <data key="d2">-11.57475</data>
+  <data key="d3">0.41843749999999996</data>
+</node>
+<node id="Pat Boone">
+  <data key="d0">33.666666666666664</data>
+  <data key="d1">0.505</data>
+  <data key="d2">-12.169000000000002</data>
+  <data key="d3">0.4323333333333334</data>
+</node>
+<node id="Patsy Cline">
+  <data key="d0">50.625</data>
+  <data key="d1">0.446875</data>
+  <data key="d2">-19.278125000000003</data>
+  <data key="d3">0.11861250000000001</data>
+</node>
+<node id="Patti Page">
+  <data key="d0">35.5</data>
+  <data key="d1">0.3510000000000001</data>
+  <data key="d2">-17.076</data>
+  <data key="d3">0.1835</data>
+</node>
+<node id="Patty Duke">
+  <data key="d0">4.0</data>
+  <data key="d1">0.469</data>
+  <data key="d2">-8.296</data>
+  <data key="d3">0.4235</data>
+</node>
+<node id="Paul Anka">
+  <data key="d0">11.5</data>
+  <data key="d1">0.33949999999999997</data>
+  <data key="d2">-8.75875</data>
+  <data key="d3">0.5507500000000001</data>
+</node>
+<node id="Paul Petersen">
+  <data key="d0">11.0</data>
+  <data key="d1">0.45999999999999996</data>
+  <data key="d2">-10.476333333333335</data>
+  <data key="d3">0.3946666666666667</data>
+</node>
+<node id="Paul Revere &amp; The Raiders">
+  <data key="d0">20.714285714285715</data>
+  <data key="d1">0.5539999999999999</data>
+  <data key="d2">-8.243857142857143</data>
+  <data key="d3">0.7852857142857143</data>
+</node>
+<node id="Paul and Mary">
+  <data key="d0">36.6</data>
+  <data key="d1">0.5746</data>
+  <data key="d2">-15.2977</data>
+  <data key="d3">0.30518</data>
+</node>
+<node id="Peaches &amp; Herb">
+  <data key="d0">18.285714285714285</data>
+  <data key="d1">0.3542857142857142</data>
+  <data key="d2">-12.345857142857142</data>
+  <data key="d3">0.44099999999999995</data>
+</node>
+<node id="Peggy Lee">
+  <data key="d0">28.8</data>
+  <data key="d1">0.6302000000000001</data>
+  <data key="d2">-14.775</data>
+  <data key="d3">0.22938</data>
+</node>
+<node id="Peppermint Rainbow">
+  <data key="d0">13.0</data>
+  <data key="d1">0.617</data>
+  <data key="d2">-7.178</data>
+  <data key="d3">0.66</data>
+</node>
+<node id="Percy Faith &amp; His Orchestra">
+  <data key="d0">31.0</data>
+  <data key="d1">0.34600000000000003</data>
+  <data key="d2">-13.811</data>
+  <data key="d3">0.3720000000000001</data>
+</node>
+<node id="Percy Sledge">
+  <data key="d0">35.44444444444444</data>
+  <data key="d1">0.4458888888888889</data>
+  <data key="d2">-12.609555555555554</data>
+  <data key="d3">0.2634444444444444</data>
+</node>
+<node id="Perry Como">
+  <data key="d0">31.0</data>
+  <data key="d1">0.515</data>
+  <data key="d2">-8.671</data>
+  <data key="d3">0.721</data>
+</node>
+<node id="Peter">
+  <data key="d0">27.05263157894737</data>
+  <data key="d1">0.546263157894737</data>
+  <data key="d2">-12.18205263157895</data>
+  <data key="d3">0.42456842105263154</data>
+</node>
+<node id="Peter And Gordon">
+  <data key="d0">14.6</data>
+  <data key="d1">0.5122</data>
+  <data key="d2">-7.9928</data>
+  <data key="d3">0.6194</data>
+</node>
+<node id="Pozo Seco Singers">
+  <data key="d0">12.166666666666666</data>
+  <data key="d1">0.5245</data>
+  <data key="d2">-13.454500000000001</data>
+  <data key="d3">0.3791666666666667</data>
+</node>
+<node id="Procol Harum">
+  <data key="d0">43.0</data>
+  <data key="d1">0.43799999999999994</data>
+  <data key="d2">-6.416</data>
+  <data key="d3">0.8370000000000001</data>
+</node>
+<node id="Quicksilver Messenger Service">
+  <data key="d0">37.0</data>
+  <data key="d1">0.642</data>
+  <data key="d2">-13.159</data>
+  <data key="d3">0.56</data>
+</node>
+<node id="Quincy Jones">
+  <data key="d0">30.0</data>
+  <data key="d1">0.503</data>
+  <data key="d2">-16.374000000000002</data>
+  <data key="d3">0.297</data>
+</node>
+<node id="Ramsey Lewis">
+  <data key="d0">21.11111111111111</data>
+  <data key="d1">0.6176666666666667</data>
+  <data key="d2">-13.087</data>
+  <data key="d3">0.6318888888888888</data>
+</node>
+<node id="Ramsey Lewis Trio">
+  <data key="d0">23.666666666666668</data>
+  <data key="d1">0.5823333333333333</data>
+  <data key="d2">-15.863333333333335</data>
+  <data key="d3">0.5920000000000001</data>
+</node>
+<node id="Ray Barretto">
+  <data key="d0">45.0</data>
+  <data key="d1">0.5429999999999999</data>
+  <data key="d2">-10.092</data>
+  <data key="d3">0.5</data>
+</node>
+<node id="Ray Price">
+  <data key="d0">18.0</data>
+  <data key="d1">0.311</data>
+  <data key="d2">-18.855</data>
+  <data key="d3">0.0903</data>
+</node>
+<node id="Ray Stevens">
+  <data key="d0">29.0</data>
+  <data key="d1">0.435</data>
+  <data key="d2">-8.48</data>
+  <data key="d3">0.804</data>
+</node>
+<node id="Ricardo Ray Orchestra">
+  <data key="d0">5.0</data>
+  <data key="d1">0.8140000000000001</data>
+  <data key="d2">-17.383</data>
+  <data key="d3">0.386</data>
+</node>
+<node id="Richard Groove Holmes">
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">0</data>
+</node>
+<node id="Robert John">
+  <data key="d0">8.0</data>
+  <data key="d1">0.65</data>
+  <data key="d2">-9.988999999999999</data>
+  <data key="d3">0.413</data>
+</node>
+<node id="Robert Knight">
+  <data key="d0">11.5</data>
+  <data key="d1">0.5589999999999999</data>
+  <data key="d2">-13.176000000000002</data>
+  <data key="d3">0.3995</data>
+</node>
+<node id="Robert Norberg">
+  <data key="d0">20.0</data>
+  <data key="d1">0.731</data>
+  <data key="d2">-15.796</data>
+  <data key="d3">0.215</data>
+</node>
+<node id="Robert Parker">
+  <data key="d0">43.0</data>
+  <data key="d1">0.7340000000000001</data>
+  <data key="d2">-10.822000000000001</data>
+  <data key="d3">0.47700000000000004</data>
+</node>
+<node id="Roberta Flack">
+  <data key="d0">64.0</data>
+  <data key="d1">0.311</data>
+  <data key="d2">-21.644000000000002</data>
+  <data key="d3">0.0264</data>
+</node>
+<node id="Robin Ward">
+  <data key="d0">15.0</data>
+  <data key="d1">0.534</data>
+  <data key="d2">-11.41</data>
+  <data key="d3">0.384</data>
+</node>
+<node id="Roger Miller">
+  <data key="d0">41.0</data>
+  <data key="d1">0.6183333333333334</data>
+  <data key="d2">-12.352333333333332</data>
+  <data key="d3">0.389</data>
+</node>
+<node id="Roy Hamilton">
+  <data key="d0">21.5</data>
+  <data key="d1">0.6265000000000001</data>
+  <data key="d2">-13.800999999999998</data>
+  <data key="d3">0.5835</data>
+</node>
+<node id="Roy Orbison">
+  <data key="d0">40.0</data>
+  <data key="d1">0.5166666666666666</data>
+  <data key="d2">-10.94122222222222</data>
+  <data key="d3">0.40344444444444444</data>
+</node>
+<node id="Ruby And The Romantics">
+  <data key="d0">14.4</data>
+  <data key="d1">0.4805999999999999</data>
+  <data key="d2">-8.5184</data>
+  <data key="d3">0.49540000000000006</data>
+</node>
+<node id="Rufus Thomas">
+  <data key="d0">36.0</data>
+  <data key="d1">0.8029999999999999</data>
+  <data key="d2">-9.033</data>
+  <data key="d3">0.494</data>
+</node>
+<node id="Rusty Draper">
+  <data key="d0">7.0</data>
+  <data key="d1">0.373</data>
+  <data key="d2">-11.555</data>
+  <data key="d3">0.237</data>
+</node>
+<node id="Sam &amp; Dave">
+  <data key="d0">31.2</data>
+  <data key="d1">0.7287999999999999</data>
+  <data key="d2">-11.3828</data>
+  <data key="d3">0.48229999999999995</data>
+</node>
+<node id="Sam Cooke">
+  <data key="d0">41.833333333333336</data>
+  <data key="d1">0.49744444444444436</data>
+  <data key="d2">-8.625499999999999</data>
+  <data key="d3">0.6154444444444445</data>
+</node>
+<node id="Sammy Davis Jr.">
+  <data key="d0">26.0</data>
+  <data key="d1">0.36025000000000007</data>
+  <data key="d2">-10.768999999999998</data>
+  <data key="d3">0.38775</data>
+</node>
+<node id="Sandy Nelson">
+  <data key="d0">14.0</data>
+  <data key="d1">0.6343333333333333</data>
+  <data key="d2">-14.392000000000001</data>
+  <data key="d3">0.7043333333333331</data>
+</node>
+<node id="Santana">
+  <data key="d0">57.0</data>
+  <data key="d1">0.5613333333333334</data>
+  <data key="d2">-14.051666666666668</data>
+  <data key="d3">0.453</data>
+</node>
+<node id="Sarah Vaughan">
+  <data key="d0">32.0</data>
+  <data key="d1">0.537</data>
+  <data key="d2">-10.151</data>
+  <data key="d3">0.493</data>
+</node>
+<node id="Savoy Brown">
+  <data key="d0">39.0</data>
+  <data key="d1">0.615</data>
+  <data key="d2">-16.0</data>
+  <data key="d3">0.272</data>
+</node>
+<node id="Scott McKenzie">
+  <data key="d0">54.0</data>
+  <data key="d1">0.495</data>
+  <data key="d2">-5.9179999999999975</data>
+  <data key="d3">0.67</data>
+</node>
+<node id="Sergio Mendes &amp; Brasil 66">
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">0</data>
+</node>
+<node id="Shelby Flint">
+  <data key="d0">12.0</data>
+  <data key="d1">0.418</data>
+  <data key="d2">-8.306999999999999</data>
+  <data key="d3">0.36650000000000005</data>
+</node>
+<node id="Shirley Ellis">
+  <data key="d0">32.0</data>
+  <data key="d1">0.5974999999999999</data>
+  <data key="d2">-6.3855</data>
+  <data key="d3">0.8275</data>
+</node>
+<node id="Simon &amp; Garfunkel">
+  <data key="d0">60.6</data>
+  <data key="d1">0.48130000000000006</data>
+  <data key="d2">-12.888499999999999</data>
+  <data key="d3">0.40809999999999996</data>
+</node>
+<node id="Sly &amp; The Family Stone">
+  <data key="d0">41.8</data>
+  <data key="d1">0.616</data>
+  <data key="d2">-10.1986</data>
+  <data key="d3">0.6990000000000001</data>
+</node>
+<node id="Small Faces">
+  <data key="d0">44.0</data>
+  <data key="d1">0.484</data>
+  <data key="d2">-9.161999999999999</data>
+  <data key="d3">0.6295000000000001</data>
+</node>
+<node id="Smith">
+  <data key="d0">19.5</data>
+  <data key="d1">0.5435</data>
+  <data key="d2">-12.024833333333333</data>
+  <data key="d3">0.45933333333333337</data>
+</node>
+<node id="Smokey Robinson &amp; The Miracles">
+  <data key="d0">36.5</data>
+  <data key="d1">0.5063</data>
+  <data key="d2">-11.643400000000003</data>
+  <data key="d3">0.45630000000000004</data>
+</node>
+<node id="Solomon Burke">
+  <data key="d0">36.0</data>
+  <data key="d1">0.5502</data>
+  <data key="d2">-12.0228</data>
+  <data key="d3">0.3584</data>
+</node>
+<node id="Sonny &amp; Cher">
+  <data key="d0">25.454545454545453</data>
+  <data key="d1">0.5088181818181818</data>
+  <data key="d2">-8.286181818181818</data>
+  <data key="d3">0.6067272727272728</data>
+</node>
+<node id="Sonny Bono">
+  <data key="d0">17.0</data>
+  <data key="d1">0.547</data>
+  <data key="d2">-7.606</data>
+  <data key="d3">0.703</data>
+</node>
+<node id="Sonny James">
+  <data key="d0">16.5</data>
+  <data key="d1">0.332</data>
+  <data key="d2">-13.337</data>
+  <data key="d3">0.46499999999999997</data>
+</node>
+<node id="Spanky &amp; Our Gang">
+  <data key="d0">20.25</data>
+  <data key="d1">0.46624999999999994</data>
+  <data key="d2">-8.4545</data>
+  <data key="d3">0.58125</data>
+</node>
+<node id="Steppenwolf">
+  <data key="d0">46.166666666666664</data>
+  <data key="d1">0.5083333333333333</data>
+  <data key="d2">-13.399333333333333</data>
+  <data key="d3">0.6906666666666667</data>
+</node>
+<node id="Steve Lawrence">
+  <data key="d0">28.333333333333332</data>
+  <data key="d1">0.5593333333333333</data>
+  <data key="d2">-12.135666666666665</data>
+  <data key="d3">0.49700000000000005</data>
+</node>
+<node id="Stevie Wonder">
+  <data key="d0">51.5</data>
+  <data key="d1">0.5546249999999999</data>
+  <data key="d2">-11.458749999999998</data>
+  <data key="d3">0.516625</data>
+</node>
+<node id="Stills &amp; Nash">
+  <data key="d0">67.0</data>
+  <data key="d1">0.451</data>
+  <data key="d2">-13.126</data>
+  <data key="d3">0.364</data>
+</node>
+<node id="Stone Poneys">
+  <data key="d0">11.0</data>
+  <data key="d1">0.53</data>
+  <data key="d2">-5.113</data>
+  <data key="d3">0.5920000000000001</data>
+</node>
+<node id="Strawberry Alarm Clock">
+  <data key="d0">31.333333333333332</data>
+  <data key="d1">0.5606666666666666</data>
+  <data key="d2">-10.561666666666667</data>
+  <data key="d3">0.6416666666666667</data>
+</node>
+<node id="Sweat &amp; Tears">
+  <data key="d0">49.0</data>
+  <data key="d1">0.5790000000000001</data>
+  <data key="d2">-9.715333333333334</data>
+  <data key="d3">0.48100000000000004</data>
+</node>
+<node id="Syl Johnson">
+  <data key="d0">40.5</data>
+  <data key="d1">0.7949999999999999</data>
+  <data key="d2">-9.2835</data>
+  <data key="d3">0.6355</data>
+</node>
+<node id="Syndicate Of Sound">
+  <data key="d0">20.0</data>
+  <data key="d1">0.6115</data>
+  <data key="d2">-10.07</data>
+  <data key="d3">0.5705</data>
+</node>
+<node id="Tammi Terrell">
+  <data key="d0">45.22222222222222</data>
+  <data key="d1">0.6045555555555555</data>
+  <data key="d2">-11.864555555555556</data>
+  <data key="d3">0.47266666666666673</data>
+</node>
+<node id="Tammy Wynette">
+  <data key="d0">56.0</data>
+  <data key="d1">0.517</data>
+  <data key="d2">-11.992</data>
+  <data key="d3">0.24600000000000002</data>
+</node>
+<node id="Ted Taylor">
+  <data key="d0">3.0</data>
+  <data key="d1">0.38799999999999996</data>
+  <data key="d2">-17.952</data>
+  <data key="d3">0.35100000000000003</data>
+</node>
+<node id="The 5th Dimension">
+  <data key="d0">38.0</data>
+  <data key="d1">0.506</data>
+  <data key="d2">-7.9725</data>
+  <data key="d3">0.605</data>
+</node>
+<node id="The Aces">
+  <data key="d0">46.0</data>
+  <data key="d1">0.775</data>
+  <data key="d2">-7.266</data>
+  <data key="d3">0.583</data>
+</node>
+<node id="The Amboy Dukes">
+  <data key="d0">40.0</data>
+  <data key="d1">0.32</data>
+  <data key="d2">-10.477</data>
+  <data key="d3">0.778</data>
+</node>
+<node id="The Animals">
+  <data key="d0">45.0</data>
+  <data key="d1">0.47237500000000004</data>
+  <data key="d2">-5.565625000000001</data>
+  <data key="d3">0.682375</data>
+</node>
+<node id="The Applejacks">
+  <data key="d0">5.0</data>
+  <data key="d1">0.521</data>
+  <data key="d2">-6.2360000000000015</data>
+  <data key="d3">0.705</data>
+</node>
+<node id="The Arbors">
+  <data key="d0">13.0</data>
+  <data key="d1">0.485</data>
+  <data key="d2">-9.79</data>
+  <data key="d3">0.41200000000000003</data>
+</node>
+<node id="The Archies">
+  <data key="d0">32.0</data>
+  <data key="d1">0.625</data>
+  <data key="d2">-11.18</data>
+  <data key="d3">0.47200000000000003</data>
+</node>
+<node id="The Association">
+  <data key="d0">30.88888888888889</data>
+  <data key="d1">0.521</data>
+  <data key="d2">-11.508333333333333</data>
+  <data key="d3">0.4434444444444445</data>
+</node>
+<node id="The Band">
+  <data key="d0">57.0</data>
+  <data key="d1">0.6406666666666666</data>
+  <data key="d2">-9.373</data>
+  <data key="d3">0.6946666666666667</data>
+</node>
+<node id="The Barbarians">
+  <data key="d0">32.0</data>
+  <data key="d1">0.48200000000000004</data>
+  <data key="d2">-9.87</data>
+  <data key="d3">0.57</data>
+</node>
+<node id="The Beach Boys">
+  <data key="d0">50.172413793103445</data>
+  <data key="d1">0.5275862068965519</data>
+  <data key="d2">-7.124827586206896</data>
+  <data key="d3">0.6235862068965518</data>
+</node>
+<node id="The Beatles">
+  <data key="d0">63.94285714285714</data>
+  <data key="d1">0.5468857142857143</data>
+  <data key="d2">-8.920799999999998</data>
+  <data key="d3">0.5784285714285715</data>
+</node>
+<node id="The Beau Brummels">
+  <data key="d0">35.5</data>
+  <data key="d1">0.5385</data>
+  <data key="d2">-8.9735</data>
+  <data key="d3">0.647</data>
+</node>
+<node id="The Blues Magoos">
+  <data key="d0">14.0</data>
+  <data key="d1">0.3315</data>
+  <data key="d2">-8.567</data>
+  <data key="d3">0.721</data>
+</node>
+<node id="The Box Tops">
+  <data key="d0">31.857142857142858</data>
+  <data key="d1">0.6595714285714286</data>
+  <data key="d2">-12.909285714285714</data>
+  <data key="d3">0.3998571428571429</data>
+</node>
+<node id="The Brothers Four">
+  <data key="d0">24.8</data>
+  <data key="d1">0.46959999999999996</data>
+  <data key="d2">-16.6066</data>
+  <data key="d3">0.24426</data>
+</node>
+<node id="The Buckinghams">
+  <data key="d0">31.75</data>
+  <data key="d1">0.4784999999999999</data>
+  <data key="d2">-11.992</data>
+  <data key="d3">0.52475</data>
+</node>
+<node id="The Byrds">
+  <data key="d0">42.07142857142857</data>
+  <data key="d1">0.4745</data>
+  <data key="d2">-9.469928571428571</data>
+  <data key="d3">0.6178571428571428</data>
+</node>
+<node id="The Capitols">
+  <data key="d0">49.0</data>
+  <data key="d1">0.7040000000000001</data>
+  <data key="d2">-14.524000000000001</data>
+  <data key="d3">0.574</data>
+</node>
+<node id="The Cascades">
+  <data key="d0">47.333333333333336</data>
+  <data key="d1">0.5736666666666667</data>
+  <data key="d2">-9.970333333333334</data>
+  <data key="d3">0.48866666666666664</data>
+</node>
+<node id="The Chantays">
+  <data key="d0">41.0</data>
+  <data key="d1">0.447</data>
+  <data key="d2">-16.43</data>
+  <data key="d3">0.43799999999999994</data>
+</node>
+<node id="The Checkmates Ltd.">
+  <data key="d0">11.0</data>
+  <data key="d1">0.34850000000000003</data>
+  <data key="d2">-5.543500000000002</data>
+  <data key="d3">0.865</data>
+</node>
+<node id="The Cookies">
+  <data key="d0">18.666666666666668</data>
+  <data key="d1">0.6576666666666666</data>
+  <data key="d2">-6.939666666666667</data>
+  <data key="d3">0.6583333333333333</data>
+</node>
+<node id="The Cowsills">
+  <data key="d0">30.0</data>
+  <data key="d1">0.46299999999999997</data>
+  <data key="d2">-9.216249999999999</data>
+  <data key="d3">0.6127499999999999</data>
+</node>
+<node id="The Dave Brubeck Quartet">
+  <data key="d0">54.0</data>
+  <data key="d1">0.65</data>
+  <data key="d2">-13.869000000000002</data>
+  <data key="d3">0.496</data>
+</node>
+<node id="The Dave Clark Five">
+  <data key="d0">18.0</data>
+  <data key="d1">0.47490000000000004</data>
+  <data key="d2">-9.1555</data>
+  <data key="d3">0.6447</data>
+</node>
+<node id="The Delfonics">
+  <data key="d0">38.0</data>
+  <data key="d1">0.4555</data>
+  <data key="d2">-8.50025</data>
+  <data key="d3">0.50725</data>
+</node>
+<node id="The Dells">
+  <data key="d0">31.666666666666668</data>
+  <data key="d1">0.32466666666666666</data>
+  <data key="d2">-14.454333333333333</data>
+  <data key="d3">0.5173333333333333</data>
+</node>
+<node id="The Dixie Cups">
+  <data key="d0">31.6</data>
+  <data key="d1">0.6776</data>
+  <data key="d2">-10.761</data>
+  <data key="d3">0.462</data>
+</node>
+<node id="The Doors">
+  <data key="d0">60.875</data>
+  <data key="d1">0.508625</data>
+  <data key="d2">-10.384749999999999</data>
+  <data key="d3">0.5419999999999999</data>
+</node>
+<node id="The Dovells">
+  <data key="d0">18.0</data>
+  <data key="d1">0.5946666666666667</data>
+  <data key="d2">-5.766666666666667</data>
+  <data key="d3">0.7566666666666667</data>
+</node>
+<node id="The Drifters">
+  <data key="d0">31.428571428571427</data>
+  <data key="d1">0.6662857142857143</data>
+  <data key="d2">-13.472285714285716</data>
+  <data key="d3">0.3908571428571429</data>
+</node>
+<node id="The Easybeats">
+  <data key="d0">59.0</data>
+  <data key="d1">0.374</data>
+  <data key="d2">-1.101</data>
+  <data key="d3">0.991</data>
+</node>
+<node id="The Electric Prunes">
+  <data key="d0">36.5</data>
+  <data key="d1">0.3385</data>
+  <data key="d2">-9.9805</data>
+  <data key="d3">0.6955</data>
+</node>
+<node id="The Emotions">
+  <data key="d0">31.0</data>
+  <data key="d1">0.6045</data>
+  <data key="d2">-14.8715</data>
+  <data key="d3">0.23500000000000001</data>
+</node>
+<node id="The Esquires">
+  <data key="d0">14.0</data>
+  <data key="d1">0.6865000000000001</data>
+  <data key="d2">-11.4195</data>
+  <data key="d3">0.512</data>
+</node>
+<node id="The Everly Brothers">
+  <data key="d0">35.26315789473684</data>
+  <data key="d1">0.5317368421052633</data>
+  <data key="d2">-11.616157894736846</data>
+  <data key="d3">0.4954210526315789</data>
+</node>
+<node id="The Exciters">
+  <data key="d0">4.0</data>
+  <data key="d1">0.39299999999999996</data>
+  <data key="d2">-6.0870000000000015</data>
+  <data key="d3">0.785</data>
+</node>
+<node id="The Fantastic Four">
+  <data key="d0">18.0</data>
+  <data key="d1">0.47725000000000006</data>
+  <data key="d2">-8.408</data>
+  <data key="d3">0.479</data>
+</node>
+<node id="The Fantastic Johnny C">
+  <data key="d0">4.0</data>
+  <data key="d1">0.733</data>
+  <data key="d2">-5.989</data>
+  <data key="d3">0.792</data>
+</node>
+<node id="The Five Stairsteps">
+  <data key="d0">8.0</data>
+  <data key="d1">0.27699999999999997</data>
+  <data key="d2">-13.1</data>
+  <data key="d3">0.235</data>
+</node>
+<node id="The Flamingos">
+  <data key="d0">16.333333333333332</data>
+  <data key="d1">0.4023333333333334</data>
+  <data key="d2">-10.298666666666666</data>
+  <data key="d3">0.41900000000000004</data>
+</node>
+<node id="The Flirtations">
+  <data key="d0">46.0</data>
+  <data key="d1">0.489</data>
+  <data key="d2">-4.909</data>
+  <data key="d3">0.9359999999999999</data>
+</node>
+<node id="The Foundations">
+  <data key="d0">39.333333333333336</data>
+  <data key="d1">0.5990000000000001</data>
+  <data key="d2">-6.113666666666667</data>
+  <data key="d3">0.7313333333333333</data>
+</node>
+<node id="The Friends Of Distinction">
+  <data key="d0">35.333333333333336</data>
+  <data key="d1">0.49466666666666664</data>
+  <data key="d2">-8.695666666666666</data>
+  <data key="d3">0.6326666666666667</data>
+</node>
+<node id="The Gentrys">
+  <data key="d0">12.5</data>
+  <data key="d1">0.4805</data>
+  <data key="d2">-10.444500000000001</data>
+  <data key="d3">0.5205</data>
+</node>
+<node id="The Guess Who">
+  <data key="d0">55.0</data>
+  <data key="d1">0.545</data>
+  <data key="d2">-10.606</data>
+  <data key="d3">0.397</data>
+</node>
+<node id="The Happenings">
+  <data key="d0">14.375</data>
+  <data key="d1">0.48862500000000003</data>
+  <data key="d2">-10.03175</data>
+  <data key="d3">0.45662500000000006</data>
+</node>
+<node id="The Hollies">
+  <data key="d0">23.333333333333332</data>
+  <data key="d1">0.494</data>
+  <data key="d2">-7.152000000000001</data>
+  <data key="d3">0.5633333333333334</data>
+</node>
+<node id="The Hullaballoos">
+  <data key="d0">4.0</data>
+  <data key="d1">0.6375</data>
+  <data key="d2">-5.6005</data>
+  <data key="d3">0.764</data>
+</node>
+<node id="The Human Beinz">
+  <data key="d0">35.5</data>
+  <data key="d1">0.5395</data>
+  <data key="d2">-7.615</data>
+  <data key="d3">0.8425</data>
+</node>
+<node id="The Impressions">
+  <data key="d0">28.434782608695652</data>
+  <data key="d1">0.5736521739130434</data>
+  <data key="d2">-10.837739130434784</data>
+  <data key="d3">0.4557826086956521</data>
+</node>
+<node id="The Innocence">
+  <data key="d0">2.5</data>
+  <data key="d1">0.663</data>
+  <data key="d2">-10.658999999999999</data>
+  <data key="d3">0.5335</data>
+</node>
+<node id="The Intruders">
+  <data key="d0">38.333333333333336</data>
+  <data key="d1">0.4080000000000001</data>
+  <data key="d2">-8.403333333333334</data>
+  <data key="d3">0.44733333333333336</data>
+</node>
+<node id="The Isley Brothers">
+  <data key="d0">37.714285714285715</data>
+  <data key="d1">0.587</data>
+  <data key="d2">-8.512714285714285</data>
+  <data key="d3">0.6452857142857142</data>
+</node>
+<node id="The Johnny Mann Singers">
+  <data key="d0">4.0</data>
+  <data key="d1">0.619</data>
+  <data key="d2">-11.039000000000001</data>
+  <data key="d3">0.322</data>
+</node>
+<node id="The Jordanaires">
+  <data key="d0">54.666666666666664</data>
+  <data key="d1">0.464</data>
+  <data key="d2">-20.05666666666667</data>
+  <data key="d3">0.12693333333333334</data>
+</node>
+<node id="The Kingston Trio">
+  <data key="d0">38.0</data>
+  <data key="d1">0.706</data>
+  <data key="d2">-14.229000000000001</data>
+  <data key="d3">0.326</data>
+</node>
+<node id="The Kinks">
+  <data key="d0">49.36363636363637</data>
+  <data key="d1">0.5384545454545454</data>
+  <data key="d2">-6.601</data>
+  <data key="d3">0.7986363636363637</data>
+</node>
+<node id="The Knightsbridge Strings &amp; Voices">
+  <data key="d0">1.0</data>
+  <data key="d1">0.384</data>
+  <data key="d2">-12.716</data>
+  <data key="d3">0.337</data>
+</node>
+<node id="The Left Banke">
+  <data key="d0">32.0</data>
+  <data key="d1">0.4270000000000001</data>
+  <data key="d2">-10.389000000000001</data>
+  <data key="d3">0.6</data>
+</node>
+<node id="The Lemon Pipers">
+  <data key="d0">10.0</data>
+  <data key="d1">0.604</data>
+  <data key="d2">-6.327999999999999</data>
+  <data key="d3">0.59</data>
+</node>
+<node id="The Lettermen">
+  <data key="d0">36.666666666666664</data>
+  <data key="d1">0.16166666666666665</data>
+  <data key="d2">-11.792000000000002</data>
+  <data key="d3">0.29066666666666663</data>
+</node>
+<node id="The Lovin Spoonful">
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">0</data>
+</node>
+<node id="The Mad Lads">
+  <data key="d0">21.5</data>
+  <data key="d1">0.559</data>
+  <data key="d2">-10.633</data>
+  <data key="d3">0.2515</data>
+</node>
+<node id="The Mamas &amp; The Papas">
+  <data key="d0">46.083333333333336</data>
+  <data key="d1">0.46066666666666656</data>
+  <data key="d2">-8.799333333333333</data>
+  <data key="d3">0.5463333333333333</data>
+</node>
+<node id="The Mar-Keys">
+  <data key="d0">37.0</data>
+  <data key="d1">0.723</data>
+  <data key="d2">-4.175</data>
+  <data key="d3">0.565</data>
+</node>
+<node id="The Marketts">
+  <data key="d0">50.0</data>
+  <data key="d1">0.485</data>
+  <data key="d2">-14.235</data>
+  <data key="d3">0.779</data>
+</node>
+<node id="The Marvelettes">
+  <data key="d0">30.727272727272727</data>
+  <data key="d1">0.6965454545454546</data>
+  <data key="d2">-8.020454545454545</data>
+  <data key="d3">0.5943636363636364</data>
+</node>
+<node id="The Merry-Go-Round">
+  <data key="d0">9.5</data>
+  <data key="d1">0.5555</data>
+  <data key="d2">-8.375</data>
+  <data key="d3">0.5499999999999999</data>
+</node>
+<node id="The Meters">
+  <data key="d0">34.0</data>
+  <data key="d1">0.6709999999999999</data>
+  <data key="d2">-13.482000000000001</data>
+  <data key="d3">0.46</data>
+</node>
+<node id="The Miracles">
+  <data key="d0">33.375</data>
+  <data key="d1">0.4919375</data>
+  <data key="d2">-9.6768125</data>
+  <data key="d3">0.5059375</data>
+</node>
+<node id="The Monitors">
+  <data key="d0">36.0</data>
+  <data key="d1">0.29600000000000004</data>
+  <data key="d2">-13.343</data>
+  <data key="d3">0.354</data>
+</node>
+<node id="The Monkees">
+  <data key="d0">42.888888888888886</data>
+  <data key="d1">0.4256666666666667</data>
+  <data key="d2">-7.848999999999999</data>
+  <data key="d3">0.6772222222222222</data>
+</node>
+<node id="The Moody Blues">
+  <data key="d0">34.4</data>
+  <data key="d1">0.4074</data>
+  <data key="d2">-8.5766</data>
+  <data key="d3">0.4952</data>
+</node>
+<node id="The Music Machine">
+  <data key="d0">28.0</data>
+  <data key="d1">0.635</data>
+  <data key="d2">-7.82</data>
+  <data key="d3">0.816</data>
+</node>
+<node id="The New Christy Minstrels">
+  <data key="d0">26.666666666666668</data>
+  <data key="d1">0.5223333333333333</data>
+  <data key="d2">-11.853000000000002</data>
+  <data key="d3">0.6156666666666667</data>
+</node>
+<node id="The New Colony Six">
+  <data key="d0">12.5</data>
+  <data key="d1">0.499</data>
+  <data key="d2">-10.21</data>
+  <data key="d3">0.5245</data>
+</node>
+<node id="The OJays">
+  <data key="d4">0</data>
+  <data key="d5">0</data>
+  <data key="d6">0</data>
+  <data key="d7">0</data>
+</node>
+<node id="The Olympics">
+  <data key="d0">5.7272727272727275</data>
+  <data key="d1">0.6324545454545455</data>
+  <data key="d2">-8.579999999999998</data>
+  <data key="d3">0.6427272727272727</data>
+</node>
+<node id="The Originals">
+  <data key="d0">50.0</data>
+  <data key="d1">0.341</data>
+  <data key="d2">-12.011</data>
+  <data key="d3">0.263</data>
+</node>
+<node id="The Orlons">
+  <data key="d0">24.0</data>
+  <data key="d1">0.608</data>
+  <data key="d2">-5.807666666666666</data>
+  <data key="d3">0.7083333333333334</data>
+</node>
+<node id="The Paul Smith Quartet">
+  <data key="d0">37.0</data>
+  <data key="d1">0.568</data>
+  <data key="d2">-10.244000000000002</data>
+  <data key="d3">0.628</data>
+</node>
+<node id="The Platters">
+  <data key="d0">37.666666666666664</data>
+  <data key="d1">0.36966666666666664</data>
+  <data key="d2">-11.720999999999998</data>
+  <data key="d3">0.3208333333333333</data>
+</node>
+<node id="The Raindrops">
+  <data key="d0">13.0</data>
+  <data key="d1">0.5820000000000001</data>
+  <data key="d2">-8.26</data>
+  <data key="d3">0.7949999999999999</data>
+</node>
+<node id="The Rascals">
+  <data key="d0">20.75</data>
+  <data key="d1">0.5055</data>
+  <data key="d2">-9.090250000000001</data>
+  <data key="d3">0.6234999999999999</data>
+</node>
+<node id="The Righteous Brothers">
+  <data key="d0">49.5</data>
+  <data key="d1">0.345</data>
+  <data key="d2">-13.709</data>
+  <data key="d3">0.354</data>
+</node>
+<node id="The Rip Chords">
+  <data key="d0">10.2</data>
+  <data key="d1">0.5264</data>
+  <data key="d2">-8.4042</data>
+  <data key="d3">0.6828000000000001</data>
+</node>
+<node id="The Rip Chords; Arranged by Terry Melcher &amp; Bruce Johnston">
+  <data key="d0">1.0</data>
+  <data key="d1">0.545</data>
+  <data key="d2">-9.057</data>
+  <data key="d3">0.5720000000000001</data>
+</node>
+<node id="The Rivieras">
+  <data key="d0">15.75</data>
+  <data key="d1">0.45899999999999996</data>
+  <data key="d2">-8.42775</data>
+  <data key="d3">0.7825</data>
+</node>
+<node id="The Rolling Stones">
+  <data key="d0">55.94736842105263</data>
+  <data key="d1">0.5098947368421052</data>
+  <data key="d2">-9.225631578947366</data>
+  <data key="d3">0.6892105263157894</data>
+</node>
+<node id="The Ronettes">
+  <data key="d0">52.6</data>
+  <data key="d1">0.5016</data>
+  <data key="d2">-8.0314</data>
+  <data key="d3">0.7283999999999999</data>
+</node>
+<node id="The Royal Guardsmen">
+  <data key="d0">28.75</data>
+  <data key="d1">0.5545</data>
+  <data key="d2">-10.1515</data>
+  <data key="d3">0.5695</data>
+</node>
+<node id="The Sandpipers">
+  <data key="d0">32.5</data>
+  <data key="d1">0.46199999999999997</data>
+  <data key="d2">-15.064</data>
+  <data key="d3">0.277</data>
+</node>
+<node id="The Searchers">
+  <data key="d0">33.111111111111114</data>
+  <data key="d1">0.5002222222222222</data>
+  <data key="d2">-6.399888888888889</data>
+  <data key="d3">0.7952222222222223</data>
+</node>
+<node id="The Seeds">
+  <data key="d0">42.666666666666664</data>
+  <data key="d1">0.5863333333333333</data>
+  <data key="d2">-13.698666666666666</data>
+  <data key="d3">0.5036666666666667</data>
+</node>
+<node id="The Shadows Of Knight">
+  <data key="d0">26.25</data>
+  <data key="d1">0.5145</data>
+  <data key="d2">-9.66525</data>
+  <data key="d3">0.486</data>
+</node>
+<node id="The Shells">
+  <data key="d0">32.0</data>
+  <data key="d1">0.565</data>
+  <data key="d2">-8.42</data>
+  <data key="d3">0.473</data>
+</node>
+<node id="The Sherrys">
+  <data key="d0">4.0</data>
+  <data key="d1">0.6405</data>
+  <data key="d2">-8.6755</data>
+  <data key="d3">0.7605</data>
+</node>
+<node id="The Shirelles">
+  <data key="d0">33.57142857142857</data>
+  <data key="d1">0.5551428571428572</data>
+  <data key="d2">-7.712714285714285</data>
+  <data key="d3">0.48657142857142854</data>
+</node>
+<node id="The Sidekicks">
+  <data key="d0">0.0</data>
+  <data key="d1">0.5429999999999999</data>
+  <data key="d2">-11.350999999999999</data>
+  <data key="d3">0.341</data>
+</node>
+<node id="The Smothers Brothers">
+  <data key="d0">5.0</data>
+  <data key="d1">0.518</data>
+  <data key="d2">-25.035</data>
+  <data key="d3">0.129</data>
+</node>
+<node id="The Spellbinders">
+  <data key="d0">6.0</data>
+  <data key="d1">0.5379999999999999</data>
+  <data key="d2">-10.059</data>
+  <data key="d3">0.40399999999999997</data>
+</node>
+<node id="The Spencer Davis Group">
+  <data key="d0">38.333333333333336</data>
+  <data key="d1">0.6266666666666666</data>
+  <data key="d2">-6.5089999999999995</data>
+  <data key="d3">0.6496666666666666</data>
+</node>
+<node id="The Spinners">
+  <data key="d0">21.5</data>
+  <data key="d1">0.518</data>
+  <data key="d2">-11.716999999999999</data>
+  <data key="d3">0.4605</data>
+</node>
+<node id="The Standells">
+  <data key="d0">48.0</data>
+  <data key="d1">0.62</data>
+  <data key="d2">-5.938</data>
+  <data key="d3">0.7809999999999999</data>
+</node>
+<node id="The Staple Singers">
+  <data key="d0">50.0</data>
+  <data key="d1">0.763</data>
+  <data key="d2">-9.908</data>
+  <data key="d3">0.621</data>
+</node>
+<node id="The Strangeloves">
+  <data key="d0">29.0</data>
+  <data key="d1">0.6996666666666668</data>
+  <data key="d2">-10.124666666666668</data>
+  <data key="d3">0.743</data>
+</node>
+<node id="The Supremes">
+  <data key="d0">41.7037037037037</data>
+  <data key="d1">0.5716666666666667</data>
+  <data key="d2">-10.113925925925924</data>
+  <data key="d3">0.568925925925926</data>
+</node>
+<node id="The Sweet Inspirations">
+  <data key="d0">14.2</data>
+  <data key="d1">0.582</data>
+  <data key="d2">-14.6614</data>
+  <data key="d3">0.33859999999999996</data>
+</node>
+<node id="The Temptations">
+  <data key="d0">41.26086956521739</data>
+  <data key="d1">0.5688695652173913</data>
+  <data key="d2">-10.154304347826086</data>
+  <data key="d3">0.5434782608695652</data>
+</node>
+<node id="The Tremeloes">
+  <data key="d0">34.75</data>
+  <data key="d1">0.5405</data>
+  <data key="d2">-7.068</data>
+  <data key="d3">0.7345</data>
+</node>
+<node id="The Troggs">
+  <data key="d0">47.666666666666664</data>
+  <data key="d1">0.5973333333333334</data>
+  <data key="d2">-12.680666666666667</data>
+  <data key="d3">0.648</data>
+</node>
+<node id="The Turtles">
+  <data key="d0">40.375</data>
+  <data key="d1">0.4911249999999999</data>
+  <data key="d2">-10.272625000000001</data>
+  <data key="d3">0.523375</data>
+</node>
+<node id="The Tymes">
+  <data key="d0">19.25</data>
+  <data key="d1">0.5357500000000001</data>
+  <data key="d2">-10.361500000000001</data>
+  <data key="d3">0.47275000000000006</data>
+</node>
+<node id="The Uniques">
+  <data key="d0">9.0</data>
+  <data key="d1">0.545</data>
+  <data key="d2">-8.907</data>
+  <data key="d3">0.4920000000000001</data>
+</node>
+<node id="The Ventures">
+  <data key="d0">37.0</data>
+  <data key="d1">0.585</data>
+  <data key="d2">-12.824</data>
+  <data key="d3">0.5843333333333333</data>
+</node>
+<node id="The Vibrations">
+  <data key="d0">2.0</data>
+  <data key="d1">0.302</data>
+  <data key="d2">-14.9</data>
+  <data key="d3">0.16899999999999998</data>
+</node>
+<node id="The Vogues">
+  <data key="d0">21.0</data>
+  <data key="d1">0.289</data>
+  <data key="d2">-11.331166666666668</data>
+  <data key="d3">0.3965</data>
+</node>
+<node id="The Who">
+  <data key="d0">55.0</data>
+  <data key="d1">0.5038333333333332</data>
+  <data key="d2">-7.291</data>
+  <data key="d3">0.7576666666666667</data>
+</node>
+<node id="The Woolies">
+  <data key="d0">32.0</data>
+  <data key="d1">0.531</data>
+  <data key="d2">-17.054000000000002</data>
+  <data key="d3">0.408</data>
+</node>
+<node id="The Yardbirds">
+  <data key="d0">24.8</data>
+  <data key="d1">0.5864</data>
+  <data key="d2">-9.633999999999999</data>
+  <data key="d3">0.7283999999999999</data>
+</node>
+<node id="The Yellow Balloon">
+  <data key="d0">15.0</data>
+  <data key="d1">0.524</data>
+  <data key="d2">-10.738</data>
+  <data key="d3">0.392</data>
+</node>
+<node id="The Young Rascals">
+  <data key="d0">40.4</data>
+  <data key="d1">0.40120000000000006</data>
+  <data key="d2">-9.3398</data>
+  <data key="d3">0.4917999999999999</data>
+</node>
+<node id="The Youngbloods">
+  <data key="d0">34.0</data>
+  <data key="d1">0.591</data>
+  <data key="d2">-10.7835</data>
+  <data key="d3">0.5455000000000001</data>
+</node>
+<node id="The Zombies">
+  <data key="d0">64.0</data>
+  <data key="d1">0.53</data>
+  <data key="d2">-6.0205</data>
+  <data key="d3">0.7515</data>
+</node>
+<node id="Them">
+  <data key="d0">33.0</data>
+  <data key="d1">0.408</data>
+  <data key="d2">-7.334</data>
+  <data key="d3">0.857</data>
+</node>
+<node id="Three Dog Night">
+  <data key="d0">41.0</data>
+  <data key="d1">0.415</data>
+  <data key="d2">-9.9515</data>
+  <data key="d3">0.579</data>
+</node>
+<node id="Thunderclap Newman">
+  <data key="d0">54.0</data>
+  <data key="d1">0.506</data>
+  <data key="d2">-11.743</data>
+  <data key="d3">0.402</data>
+</node>
+<node id="Thurl Ravenscroft">
+  <data key="d0">40.0</data>
+  <data key="d1">0.517</data>
+  <data key="d2">-10.93</data>
+  <data key="d3">0.484</data>
+</node>
+<node id="Tom Jones">
+  <data key="d0">50.75</data>
+  <data key="d1">0.503375</data>
+  <data key="d2">-11.929375</data>
+  <data key="d3">0.48700000000000004</data>
+</node>
+<node id="Tommy Boyce">
+  <data key="d0">14.0</data>
+  <data key="d1">0.4976000000000001</data>
+  <data key="d2">-9.340599999999998</data>
+  <data key="d3">0.651</data>
+</node>
+<node id="Tommy James &amp; The Shondells">
+  <data key="d0">36.0</data>
+  <data key="d1">0.6204999999999999</data>
+  <data key="d2">-9.506666666666668</data>
+  <data key="d3">0.7080000000000001</data>
+</node>
+<node id="Tommy Roe">
+  <data key="d0">15.6</data>
+  <data key="d1">0.5096</data>
+  <data key="d2">-7.779000000000001</data>
+  <data key="d3">0.5772</data>
+</node>
+<node id="Tony Bennett">
+  <data key="d0">24.142857142857142</data>
+  <data key="d1">0.3242142857142857</data>
+  <data key="d2">-12.81342857142857</data>
+  <data key="d3">0.24892857142857142</data>
+</node>
+<node id="Tony Joe White">
+  <data key="d0">54.0</data>
+  <data key="d1">0.7829999999999999</data>
+  <data key="d2">-11.565</data>
+  <data key="d3">0.5429999999999999</data>
+</node>
+<node id="Tony Orlando">
+  <data key="d0">17.0</data>
+  <data key="d1">0.382</data>
+  <data key="d2">-2.57</data>
+  <data key="d3">0.848</data>
+</node>
+<node id="Toussaint McCall">
+  <data key="d0">30.0</data>
+  <data key="d1">0.42000000000000004</data>
+  <data key="d2">-13.485500000000002</data>
+  <data key="d3">0.273</data>
+</node>
+<node id="Traffic">
+  <data key="d0">30.0</data>
+  <data key="d1">0.47200000000000003</data>
+  <data key="d2">-12.15</data>
+  <data key="d3">0.6709999999999999</data>
+</node>
+<node id="Travis &amp; Bob">
+  <data key="d0">15.0</data>
+  <data key="d1">0.314</data>
+  <data key="d2">-11.737</data>
+  <data key="d3">0.631</data>
+</node>
+<node id="Trini Lopez">
+  <data key="d0">21.0</data>
+  <data key="d1">0.7609999999999999</data>
+  <data key="d2">-11.620999999999999</data>
+  <data key="d3">0.551</data>
+</node>
+<node id="Troy Shondell">
+  <data key="d0">0.0</data>
+  <data key="d1">0.23800000000000002</data>
+  <data key="d2">-9.506</data>
+  <data key="d3">0.384</data>
+</node>
+<node id="Tyrone Davis">
+  <data key="d0">39.0</data>
+  <data key="d1">0.545</data>
+  <data key="d2">-6.239</data>
+  <data key="d3">0.669</data>
+</node>
+<node id="Van Morrison">
+  <data key="d0">56.5</data>
+  <data key="d1">0.4495</data>
+  <data key="d2">-9.149000000000001</data>
+  <data key="d3">0.72</data>
+</node>
+<node id="Vanilla Fudge">
+  <data key="d0">24.0</data>
+  <data key="d1">0.301</data>
+  <data key="d2">-16.015</data>
+  <data key="d3">0.41600000000000004</data>
+</node>
+<node id="Vic Anesini">
+  <data key="d0">14.0</data>
+  <data key="d1">0.445</data>
+  <data key="d2">-17.688</data>
+  <data key="d3">0.196</data>
+</node>
+<node id="Vic Damone">
+  <data key="d0">7.0</data>
+  <data key="d1">0.4970000000000001</data>
+  <data key="d2">-12.482000000000001</data>
+  <data key="d3">0.457</data>
+</node>
+<node id="Vikki Carr">
+  <data key="d0">30.0</data>
+  <data key="d1">0.4625</data>
+  <data key="d2">-9.7345</data>
+  <data key="d3">0.4565</data>
+</node>
+<node id="Walter Jackson">
+  <data key="d0">7.0</data>
+  <data key="d1">0.45799999999999996</data>
+  <data key="d2">-11.026</data>
+  <data key="d3">0.44</data>
+</node>
+<node id="Walter Wanderley">
+  <data key="d0">35.0</data>
+  <data key="d1">0.746</data>
+  <data key="d2">-10.293</data>
+  <data key="d3">0.529</data>
+</node>
+<node id="Wanda Jackson">
+  <data key="d0">9.0</data>
+  <data key="d1">0.43799999999999994</data>
+  <data key="d2">-9.362</data>
+  <data key="d3">0.293</data>
+</node>
+<node id="Wayne Fontana &amp; The Mindbenders">
+  <data key="d0">44.0</data>
+  <data key="d1">0.575</data>
+  <data key="d2">-4.298</data>
+  <data key="d3">0.843</data>
+</node>
+<node id="Wayne Newton">
+  <data key="d0">22.0</data>
+  <data key="d1">0.397</data>
+  <data key="d2">-7.209</data>
+  <data key="d3">0.408</data>
+</node>
+<node id="We Five">
+  <data key="d0">5.0</data>
+  <data key="d1">0.486</data>
+  <data key="d2">-10.356</data>
+  <data key="d3">0.424</data>
+</node>
+<node id="Wes Montgomery">
+  <data key="d0">21.5</data>
+  <data key="d1">0.6615</data>
+  <data key="d2">-13.744</data>
+  <data key="d3">0.2835</data>
+</node>
+<node id="Wilson Pickett">
+  <data key="d0">35.44444444444444</data>
+  <data key="d1">0.5564444444444444</data>
+  <data key="d2">-11.781777777777778</data>
+  <data key="d3">0.5395555555555556</data>
+</node>
+<node id="Zager &amp; Evans">
+  <data key="d0">51.0</data>
+  <data key="d1">0.451</data>
+  <data key="d2">-5.609</data>
+  <data key="d3">0.62</data>
+</node>
+<edge source="Alex Orbison" target="Chuck Turner">
+  <data key="d8">9</data>
+</edge>
+<edge source="Alex Orbison" target="Roy Orbison">
+  <data key="d8">9</data>
+</edge>
+<edge source="Beaky" target="Dave Dee">
+  <data key="d8">6</data>
+</edge>
+<edge source="Beaky" target="Dozy">
+  <data key="d8">6</data>
+</edge>
+<edge source="Beaky" target="Mick &amp; Tich">
+  <data key="d8">6</data>
+</edge>
+<edge source="Big Brother &amp; The Holding Company" target="Janis Joplin">
+  <data key="d8">3</data>
+</edge>
+<edge source="Blood" target="Sweat &amp; Tears">
+  <data key="d8">9</data>
+</edge>
+<edge source="Bobby Hart" target="Tommy Boyce">
+  <data key="d8">2</data>
+</edge>
+<edge source="Boots Randolph" target="The Knightsbridge Strings &amp; Voices">
+  <data key="d8">1</data>
+</edge>
+<edge source="Boris Karloff" target="Thurl Ravenscroft">
+  <data key="d8">1</data>
+</edge>
+<edge source="Brook Benton" target="Dinah Washington">
+  <data key="d8">7</data>
+</edge>
+<edge source="Carla Thomas" target="Otis Redding">
+  <data key="d8">6</data>
+</edge>
+<edge source="Chuck Turner" target="Roy Orbison">
+  <data key="d8">9</data>
+</edge>
+<edge source="Crazy Horse" target="Neil Young">
+  <data key="d8">10</data>
+</edge>
+<edge source="Crosby" target="Stills &amp; Nash">
+  <data key="d8">2</data>
+</edge>
+<edge source="Cubie Burke" target="The Five Stairsteps">
+  <data key="d8">4</data>
+</edge>
+<edge source="Cy Langston" target="James Brown &amp; The Famous Flames">
+  <data key="d8">2</data>
+</edge>
+<edge source="Dave Dee" target="Dozy">
+  <data key="d8">6</data>
+</edge>
+<edge source="Dave Dee" target="Mick &amp; Tich">
+  <data key="d8">6</data>
+</edge>
+<edge source="Desmond Dekker" target="The Aces">
+  <data key="d8">5</data>
+</edge>
+<edge source="Diana Ross &amp; The Supremes" target="The Temptations">
+  <data key="d8">8</data>
+</edge>
+<edge source="Dozy" target="Mick &amp; Tich">
+  <data key="d8">6</data>
+</edge>
+<edge source="Earl Scruggs" target="Lester Flatt">
+  <data key="d8">8</data>
+</edge>
+<edge source="Ella Fitzgerald" target="The Paul Smith Quartet">
+  <data key="d8">4</data>
+</edge>
+<edge source="Etta James" target="Harvey Fuqua">
+  <data key="d8">6</data>
+</edge>
+<edge source="Gloria Lynne" target="Marty Paich">
+  <data key="d8">1</data>
+</edge>
+<edge source="Jimmy Dean" target="Vic Anesini">
+  <data key="d8">1</data>
+</edge>
+<edge source="Johnny Burnette" target="The Johnny Mann Singers">
+  <data key="d8">3</data>
+</edge>
+<edge source="Kai Winding" target="Kenny Burrell">
+  <data key="d8">3</data>
+</edge>
+<edge source="Kim Weston" target="Marvin Gaye">
+  <data key="d8">6</data>
+</edge>
+<edge source="Lee Hazlewood" target="Nancy Sinatra">
+  <data key="d8">4</data>
+</edge>
+<edge source="Linda Ronstadt" target="Stone Poneys">
+  <data key="d8">9</data>
+</edge>
+<edge source="Mark Lindsay" target="Paul Revere &amp; The Raiders">
+  <data key="d8">6</data>
+</edge>
+<edge source="Marvin Gaye" target="Mary Wells">
+  <data key="d8">6</data>
+</edge>
+<edge source="Marvin Gaye" target="Tammi Terrell">
+  <data key="d8">6</data>
+</edge>
+<edge source="Patsy Cline" target="The Jordanaires">
+  <data key="d8">2</data>
+</edge>
+<edge source="Paul and Mary" target="Peter">
+  <data key="d8">2</data>
+</edge>
+<edge source="Peggy Lee" target="Robert Norberg">
+  <data key="d8">7</data>
+</edge>
+<edge source="Them" target="Van Morrison">
+  <data key="d8">10</data>
+</edge>
+</graph></graphml>
